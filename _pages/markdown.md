@@ -57,8 +57,31 @@ redirect_from:
     xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
   </div>
 </div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/ZilongHuang.jpg" alt="ZilongHuang" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Zilong Huang</strong><br>
+    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+  </div>
+</div>
 
 ### Research Assistants
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/XiXu.jpg" alt="XiXu" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Xi Xu</strong><br>
+    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+  </div>
+</div>
 
 ## Previous Students
 ### Ph.D Students
