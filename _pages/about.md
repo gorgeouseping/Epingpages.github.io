@@ -13,13 +13,18 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 
 <font color=Red>I am looking for self-motivated students, postdocs, research assistants and visiting scholars! Please drop me an email if you are interested in working with me!</font>
 
-## *<font color=Red>News</font>* 💥💥💥
+## <font color=Red>News</font> 💥💥💥
 - 2024-04-22: The paper [Chat3D: Interactive Understanding 3D Scene-Level Point Clouds by Chatting with Foundation Model for Urban Ecological Construction](https://www.sciencedirect.com/science/article/pii/S0924271624001849) is accepted by ISPRS Journal!
 - 2024-02-27: The paper [SPTNet: Sparse Convolution and Transformer Network for Woody and Foliage Components Separation from Point Clouds](https://ieeexplore.ieee.org/abstract/document/10466757) is accepted by IEEE TGRS!
 - 2024-02-24: The paper [Joint Structure Detection and Multi-Scale Clustering Filtering for Tunnel Lining Extraction From Point Clouds](https://ieeexplore.ieee.org/abstract/document/10492659) is accepted by IEEE TITS!
 - 2024-02-02: The paper [Low-FaceNet: Face recognition-driven low-light image enhancement](https://ieeexplore.ieee.org/abstract/document/10476748) is accepted by IEEE TIM!
 - 2024-01-18: The paper [A Survey of Point Cloud Completion](https://ieeexplore.ieee.org/abstract/document/10433645) is accepted by IEEE JSTARS!
 
+## Representative Publication 🔥🔥🔥
+<img align="left" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/>
+[LiDAR-Video Driving Dataset: Learning Driving Policies Effectively](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.html)
+**Yiping Chen**, Jingkang Wang, Jonathan Li, Cewu Lu, Zhipeng Luo, Han Xue, Cheng Wang
+IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (CCF-A)
 
 
 
