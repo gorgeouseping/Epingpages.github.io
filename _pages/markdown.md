@@ -12,6 +12,30 @@ redirect_from:
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/XiaoxueLiu.jpg" alt="XiaoxueLiu" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Xiaoxue Liu</strong><br>
+    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/WentaoSun.jpg" alt="WentaoSun" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Wentao Sun</strong><br>
+    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
           <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/TingHan.jpg" alt="TingHan" style="width: 60%;"/>
     </a>
   </div>
@@ -34,6 +58,30 @@ redirect_from:
 </div>
 
 ### Master Students
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/ShuaiZhang.jpg" alt="ShuaiZhang" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Shuai Zhang</strong><br>
+    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/XiangyiXie.jpg" alt="XiangyiXie" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Xiangyi Xie</strong><br>
+    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+  </div>
+</div>
+<br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
