@@ -27,7 +27,7 @@ https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/DBNet.
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
-        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/DBNet.gif" alt="Chat3D" style="width: 20%;"/>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/Chat3D.jpg" alt="Chat3D" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
