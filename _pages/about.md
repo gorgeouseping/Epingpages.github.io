@@ -27,29 +27,15 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 **Yiping Chen**, Jingkang Wang, Jonathan Li, Cewu Lu, Zhipeng Luo, Han Xue, Cheng Wang
 
 IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (CCF-A)
-<table style="border-collapse: collapse;" border="0">
-  <tr>
-    <td style="border: none;">
-      <img src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png" alt="DBNet" width="200"/>
-    </td>
-    <td style="border: none;">
-      <strong>LiDAR-Video Driving Dataset: Learning Driving Policies Effectively</strong><br>
-      <em>**Yiping Chen**</em>, Jingkang Wang, Jonathan Li, Cewu Lu, Zhipeng Luo, Han Xue, Cheng Wang<br>
-      IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (CCF-A)<br>
-      <a href="URL_to_paper"><img src="📃" alt="Paper"/></a>
-      <a href="URL_to_code"><img src=":github" alt="Code"/></a>
-    </td>
-  </tr>
-</table>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
-    <img src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png" alt="Summary Image" style="width: 20%;"/>
+    <img src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png" alt="DBNet" style="width: 20%;"/>
   </div>
   <div style="flex: 70%;">
-    <strong>A novel method for registration of MLS and stereo reconstructed point clouds</strong><br>
-    <em>Xiaochen Yang</em>, Haiping Wang, Zhen Dong, Yuan Liu, Yuhao Li, Bisheng Yang<br>
-    TGRS 2024 (IF: 8.2)<br>
-    <a href="URL_to_paper"><img src="link_to_paper_icon" alt="Paper" width="30"/></a>
+    <strong>LiDAR-Video Driving Dataset: Learning Driving Policies Effectively</strong><br>
+    <em>Yiping Chen</em>, Jingkang Wang, Jonathan Li, Cewu Lu, Zhipeng Luo, Han Xue, Cheng Wang<br>
+    IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (CCF-A)<br>
+    <a href="URL_to_paper"><img src="link_to_paper_icon" alt="📄" width="30"/></a>
     <a href="URL_to_code"><img src="link_to_code_icon" alt="Code" width="30"/></a>
   </div>
 </div>
