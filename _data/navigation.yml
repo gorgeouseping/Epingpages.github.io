@@ -1,7 +1,9 @@
 # main links links
 main:
   - title: "Biography"
-    url: /Biography/
+    url: /cv/
+  #- title: "Biography"
+  #  url: /Biography/
     
   - title: "Publications"
     url: /publications/
@@ -15,8 +17,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "CV"
-  #  url: /cv/
+  
     
   - title: "Group"
     url: /markdown/
