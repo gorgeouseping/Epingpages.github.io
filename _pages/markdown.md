@@ -62,5 +62,26 @@ redirect_from:
 
 ## Previous Students
 ### Ph.D Students
-
+- Naftaly Wambugua (2022) (Kenya)
+- Zhipeng Luo (2020) (National LiDAR Outstanding Doctoral Dissertation Award, Fujian Provincial Outstanding Doctoral Dissertation)
+- Huifang Feng (2019)
+- Pengdi Huang (2017) (Excellent doctoral dissertation in Fujian Province)
+  
 ### Master Students
+- Guoyan Li (2021)
+- Zhengchuan Sha (2021)
+- Jiahao Lin (2021)
+- Hongbin Zeng (2020)
+- Weisheng Lin (2020)
+- Jianlan Gao (2020)
+- Rongren Wu (2019)
+- Zheng Zhang (2019)
+- Zhiyou Hong (2019)
+- Chengzhe Yang (2019)
+- Jianfeng Liu (2018)
+- Gen Li (2018)
+- Yulong Liu (2017)
+- Hairong Zhang (2016)
+- Xichao Guo (2016)
+- Shengxia Weng (2016)
+- Ruoshen Wu (2015)
