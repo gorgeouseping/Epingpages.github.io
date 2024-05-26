@@ -27,6 +27,21 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 **Yiping Chen**, Jingkang Wang, Jonathan Li, Cewu Lu, Zhipeng Luo, Han Xue, Cheng Wang
 
 IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (CCF-A)
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png" alt="Image" width="300"/>
+    </td>
+    <td>
+      <strong>A novel method for registration of MLS and stereo reconstructed point clouds</strong><br>
+      <em>Xiaochen Yang</em>, Haiping Wang, Zhen Dong, Yuan Liu, Yuhao Li, Bisheng Yang<br>
+      TGRS 2024 (IF: 8.2)<br>
+      <a href="URL_to_paper"><img src="link_to_paper_icon" alt="Paper"/></a>
+      <a href="URL_to_code"><img src="link_to_code_icon" alt="Code"/></a>
+    </td>
+  </tr>
+</table>
+
 
 
 
