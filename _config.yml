@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/Yiping%20Chen.jpg"
-  name             : "Your Sidebar Name"
+  avatar           : "Yiping Chen.jpg" #"https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/Yiping%20Chen.jpg"
+  name             : "Yiping Chen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
