@@ -32,10 +32,9 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
     <br>
     <strong>Yiping Chen</strong>, Jingkang Wang, Jonathan Li, Cewu Lu, Zhipeng Luo, Han Xue, Cheng Wang<br>
     IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (<strong>CCF-A</strong>)<br>
-    <a href="https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.html">📄</a>
+    <a href="https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.html"><img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/Paper-Symbol.png" alt="Paper" style="width: 20%;"/></a>
     <a href="https://github.com/driving-behavior/DBNet"><img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/GitHub-Symbol.png" alt="Github" style="width: 20%;"/></a>
-    <a href="http://www.dbehavior.net/">🏠</a>
-    !!!!!!
+    <a href="http://www.dbehavior.net/"><img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/Home-Symbol.png" alt="Home" style="width: 20%;"/></a>
   </div>
 </div>
 
