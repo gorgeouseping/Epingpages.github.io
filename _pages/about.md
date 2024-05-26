@@ -21,20 +21,18 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 - 2024-01-18: The paper [A Survey of Point Cloud Completion](https://ieeexplore.ieee.org/abstract/document/10433645) is accepted by IEEE JSTARS!
 
 ## Representative Publication 🔥🔥🔥
-#https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/DBNet.gif
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
-    <img src="/images/DBNet.gif" alt="DBNet" style="width: 20%;"/>
+    <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/DBNet.gif" alt="DBNet" style="width: 20%;"/>
   </div>
   <div style="flex: 70%;">
     <strong>LiDAR-Video Driving Dataset: Learning Driving Policies Effectively</strong><br>
     <br>
     <strong>Yiping Chen</strong>, Jingkang Wang, Jonathan Li, Cewu Lu, Zhipeng Luo, Han Xue, Cheng Wang<br>
     IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (<strong>CCF-A</strong>)<br>
-    [📄](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.html) | [Code](https://github.com/driving-behavior/DBNet) | [🏠](http://www.dbehavior.net/)
   </div>
 </div>
-
+#  [📄](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.html) | [Code](https://github.com/driving-behavior/DBNet) | [🏠](http://www.dbehavior.net/)
 
 
 
