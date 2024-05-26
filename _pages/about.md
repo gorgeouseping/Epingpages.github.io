@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Yiping Chen(陈一平)
+# Yiping Chen (陈一平)
 
 Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). She is also the Deputy Director of the Science Research Institute at Sun Yat-sen University, a Senior Member of IEEE, and a Senior Member of CSIG (China Society of Image and Graphics). Her main research interests include **LiDAR remote sensing**, **intelligent processing of 3D point clouds**, **remote sensing image processing**, and **sustainable development applications**. She has led 12 projects including the National Natural Science Foundation of China and participated in over 20 projects including the Key Program of the National Natural Science Foundation of China. She has published **50+** papers in major journals and conferences, including ISPRS JPRS, CVPR, IEEE TGRS, IEEE TITS, and JAG.
 
@@ -75,7 +75,7 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>DBNet</strong>is a large-scale dataset product containing 3D point clouds, video images, GNSS, and driver behavior (speed and direction). It covers various road types in Xiamen City, totaling over 1000 kilometers. The 3D spatial point cloud and 2D video image data at the city level can provide a basis for autonomous driving decision-making. It has been downloaded and used globally by over 600 units and individuals, including MIT, Google, etc. Feel free to download and use.<br>
+    <strong>DBNet</strong> is a comprehensive large-scale dataset that includes 3D point cloud data, video images, GNSS data, and driver behavior metrics such as speed and direction. It Covers over 1,000 kilometres in Xiamen with different types of roads. DBNet provides city-level 3D point cloud with coresponding 2D video images, serving as a robust foundation for decision-making in autonomous driving. It has been widely used by more than 600 organizations and individuals across the world, including MIT, Google, etc. Welcome to download and make use of DBNet.<br>
     <a href="https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.html">Paper📄</a>|
     <a href="https://github.com/driving-behavior/DBNet">Code💻</a>|
     <a href="http://www.dbehavior.net/">HomePage🏠</a>
