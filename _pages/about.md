@@ -40,8 +40,8 @@ https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/DBNet.
 <br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
-    <a href="https://github.com">
-        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/DBNet.gif" alt="DBNet" style="width: 20%;"/>
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/DBNet.gif" alt="DBNet" style="width: 60%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
