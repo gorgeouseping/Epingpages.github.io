@@ -43,7 +43,7 @@ IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (CCF-A)
 </table>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
-    <img src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png" alt="Summary Image" style="width: 100%;"/>
+    <img src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png" alt="Summary Image" style="width: 20%;"/>
   </div>
   <div style="flex: 70%;">
     <strong>A novel method for registration of MLS and stereo reconstructed point clouds</strong><br>
