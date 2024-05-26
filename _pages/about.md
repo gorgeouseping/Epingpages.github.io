@@ -32,10 +32,11 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
   <div style="flex: 70%;">
     <strong>Chat3D: Interactive Understanding 3D Scene-Level Point Clouds by Chatting with Foundation Model for Urban Ecological Construction</strong><br>
     <strong>Yiping Chen</strong>, Shuai Zhang, Ting Han, Yumeng Du, Wuming Zhang, Jonathan Li<br>
-    IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (<strong>CCF-A</strong>)<br>
+    ISPRS Journal of Photogrammetry and Remote Sensing 2024 (<strong>IF=12.7</strong>)<br>
     <a href="https://www.sciencedirect.com/science/article/pii/S0924271624001849">Paper📄</a>
   </div>
 </div>
+
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a href="https://github.com">
