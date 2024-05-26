@@ -15,7 +15,7 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
   I am looking for self-motivated students, postdocs, research assistants, and visiting scholars! Please drop me an <a href="mailto:chenyp79@sysu.edu.cn" style="color: red; text-decoration: underline;">email📧</a> if you are interested in working with me!
 </p>
 
-## <font color=Red>News</font> 💥💥💥
+## News 💥💥💥
 - 2024-04-22: The paper [Chat3D: Interactive Understanding 3D Scene-Level Point Clouds by Chatting with Foundation Model for Urban Ecological Construction](https://www.sciencedirect.com/science/article/pii/S0924271624001849) is accepted by ISPRS Journal!
 - 2024-02-27: The paper [SPTNet: Sparse Convolution and Transformer Network for Woody and Foliage Components Separation from Point Clouds](https://ieeexplore.ieee.org/abstract/document/10466757) is accepted by IEEE TGRS!
 - 2024-02-24: The paper [Joint Structure Detection and Multi-Scale Clustering Filtering for Tunnel Lining Extraction From Point Clouds](https://ieeexplore.ieee.org/abstract/document/10492659) is accepted by IEEE TITS!
@@ -23,6 +23,19 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 - 2024-01-18: The paper [A Survey of Point Cloud Completion](https://ieeexplore.ieee.org/abstract/document/10433645) is accepted by IEEE JSTARS!
 
 ## Representative Publication 🔥🔥🔥
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a href="https://github.com">
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/DBNet.gif" alt="Chat3D" style="width: 20%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Chat3D: Interactive Understanding 3D Scene-Level Point Clouds by Chatting with Foundation Model for Urban Ecological Construction</strong><br>
+    <strong>Yiping Chen</strong>, Shuai Zhang, Ting Han, Yumeng Du, Wuming Zhang, Jonathan Li<br>
+    IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (<strong>CCF-A</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0924271624001849">Paper📄</a>
+  </div>
+</div>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a href="https://github.com">
