@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ting-Devin-Han"
 description              : &description "personal description"
-url                      : https://github.com/Ting-Devin-Han/Epingpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Epingpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ting-Devin-Han/Epingpages.github.io"
 
