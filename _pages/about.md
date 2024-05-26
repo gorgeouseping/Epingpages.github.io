@@ -23,7 +23,6 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 - 2024-01-18: The paper [A Survey of Point Cloud Completion](https://ieeexplore.ieee.org/abstract/document/10433645) is accepted by IEEE JSTARS!
 
 ## Representative Publication 🔥🔥🔥
-https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/DBNet.gif
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
@@ -35,6 +34,20 @@ https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/DBNet.
     <strong>Yiping Chen</strong>, Shuai Zhang, Ting Han, Yumeng Du, Wuming Zhang, Jonathan Li<br>
     ISPRS Journal of Photogrammetry and Remote Sensing 2024 (<strong>IF=12.7</strong>)<br>
     <a href="https://www.sciencedirect.com/science/article/pii/S0924271624001849">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="" alt="Chat3D" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>SPTNet: Sparse Convolution and Transformer Network for Woody and Foliage Components Separation from Point Clouds</strong><br>
+    Shuai Zhang, <strong>Yiping Chen*</strong>, Biao Wang, Dong Pan, Wuming Zhang, Aiguang Li<br>
+    IEEE Transactions on Geoscience and Remote Sensing 2024 (<strong>IF=8.2, CCF-B</strong>)<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10466757">Paper📄</a>
   </div>
 </div>
 <br>
