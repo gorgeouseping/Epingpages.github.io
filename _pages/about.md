@@ -1,19 +1,18 @@
 ---
 permalink: /
-title: "Home"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Yiping Chen
-### Professor, Ph.D. Supervisor
+## Yiping Chen(陈一平)
+### Associate Professor, Ph.D. Supervisor
 
-School of Geospatial Engineering and Science, Sun Yat-sen University
+[School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/)
 
-Email: chenyp79@mail.sysu.edu.cn
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Yiping Chen is an Associate Professor / Ph.D. Supervisor at the School of Geospatial Engineering and Science, Sun Yat-sen University. She is also the Deputy Director of the Science Research Institute at Sun Yat-sen University, a Senior Member of IEEE, and a Senior Member of CSIG (China Society of Image and Graphics). Her main research interests include **LiDAR remote sensing**, **intelligent processing of 3D point clouds**, **remote sensing image processing**, and **sustainable development applications**. She has led 12 projects including the National Natural Science Foundation of China and participated in over 20 projects including the Key Program of the National Natural Science Foundation of China. 
 
 A data-driven personal website
 ======
