@@ -23,7 +23,7 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 ## Representative Publication 🔥🔥🔥
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
-    <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/DBNet.gif" alt="DBNet" style="width: 20%;"/>
+    <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/3953273590_704e3899d5_m.jpg" alt="DBNet" style="width: 20%;"/>
   </div>
   <div style="flex: 70%;">
     <strong>LiDAR-Video Driving Dataset: Learning Driving Policies Effectively</strong><br>
