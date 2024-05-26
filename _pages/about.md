@@ -23,13 +23,13 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 ## Representative Publication 🔥🔥🔥
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
-    <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/3953273590_704e3899d5_m.jpg" alt="DBNet" style="width: 20%;"/>
+    <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/DBNet.gif" alt="DBNet" style="width: 20%;"/>
   </div>
   <div style="flex: 70%;">
     <strong>LiDAR-Video Driving Dataset: Learning Driving Policies Effectively</strong><br>
     <br>
     <strong>Yiping Chen</strong>, Jingkang Wang, Jonathan Li, Cewu Lu, Zhipeng Luo, Han Xue, Cheng Wang<br>
-    IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (CCF-A)<br>
+    IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (<strong>CCF-A</strong>)<br>
     [📄](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.html) | [Code](https://github.com/driving-behavior/DBNet) | [🏠](http://www.dbehavior.net/)
   </div>
 </div>
