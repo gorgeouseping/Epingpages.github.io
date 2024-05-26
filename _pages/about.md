@@ -11,7 +11,7 @@ redirect_from:
 
 Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School of Geospatial Engineering and Science](https://sges.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). She is also the Deputy Director of the Science Research Institute at Sun Yat-sen University, a Senior Member of IEEE, and a Senior Member of CSIG (China Society of Image and Graphics). Her main research interests include **LiDAR remote sensing**, **intelligent processing of 3D point clouds**, **remote sensing image processing**, and **sustainable development applications**. She has led 12 projects including the National Natural Science Foundation of China and participated in over 20 projects including the Key Program of the National Natural Science Foundation of China. She has published **50+** papers in major journals and conferences, including ISPRS JPRS, CVPR, IEEE TGRS, IEEE TITS, and JAG.
 
-## News:exclamation::exclamation::exclamation:
+## News :exclamation: :exclamation: :exclamation:
 
 A data-driven personal website
 ======
