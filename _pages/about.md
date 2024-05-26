@@ -16,9 +16,9 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 ## *<font color=Red>News</font>* 💥💥💥
 - 2024-04-22: The paper [Chat3D: Interactive Understanding 3D Scene-Level Point Clouds by Chatting with Foundation Model for Urban Ecological Construction](https://www.sciencedirect.com/science/article/pii/S0924271624001849) is accepted by ISPRS Journal!
 - 2024-02-27: The paper [SPTNet: Sparse Convolution and Transformer Network for Woody and Foliage Components Separation from Point Clouds](https://ieeexplore.ieee.org/abstract/document/10466757) is accepted by IEEE TGRS!
-- 2024-02-13: The paper [Joint Structure Detection and Multi-Scale Clustering Filtering for Tunnel Lining Extraction From Point Clouds](https://ieeexplore.ieee.org/abstract/document/10492659) is accepted by IEEE TITS!
-- 2024-02-00: The paper [A Survey of Point Cloud Completion](https://ieeexplore.ieee.org/abstract/document/10433645) is accepted by IEEE JSTARS!
+- 2024-02-24: The paper [Joint Structure Detection and Multi-Scale Clustering Filtering for Tunnel Lining Extraction From Point Clouds](https://ieeexplore.ieee.org/abstract/document/10492659) is accepted by IEEE TITS!
 - 2024-02-02: The paper [Low-FaceNet: Face recognition-driven low-light image enhancement](https://ieeexplore.ieee.org/abstract/document/10476748) is accepted by IEEE TIM!
+- 2024-01-18: The paper [A Survey of Point Cloud Completion](https://ieeexplore.ieee.org/abstract/document/10433645) is accepted by IEEE JSTARS!
 
 
 
