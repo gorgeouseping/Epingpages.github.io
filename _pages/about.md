@@ -21,21 +21,15 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 - 2024-01-18: The paper [A Survey of Point Cloud Completion](https://ieeexplore.ieee.org/abstract/document/10433645) is accepted by IEEE JSTARS!
 
 ## Representative Publication 🔥🔥🔥
-<img align="left" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/>
-[LiDAR-Video Driving Dataset: Learning Driving Policies Effectively](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.html)
-
-**Yiping Chen**, Jingkang Wang, Jonathan Li, Cewu Lu, Zhipeng Luo, Han Xue, Cheng Wang
-
-IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (CCF-A)
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
-    <img src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png" alt="DBNet" style="width: 20%;"/>
+    <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/DBNet.gif" alt="DBNet" style="width: 20%;"/>
   </div>
   <div style="flex: 70%;">
     <strong>LiDAR-Video Driving Dataset: Learning Driving Policies Effectively</strong><br>
     <em>Yiping Chen</em>, Jingkang Wang, Jonathan Li, Cewu Lu, Zhipeng Luo, Han Xue, Cheng Wang<br>
     IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (CCF-A)<br>
-    <a href="URL_to_paper"><img src="link_to_paper_icon" alt="📄" width="30"/></a>
+    <a href="URL_to_paper">📄</a>
     <a href="URL_to_code"><img src="link_to_code_icon" alt="Code" width="30"/></a>
   </div>
 </div>
