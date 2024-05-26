@@ -41,6 +41,18 @@ IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (CCF-A)
     </td>
   </tr>
 </table>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <img src="URL_to_image" alt="Summary Image" style="width: 100%;"/>
+  </div>
+  <div style="flex: 70%;">
+    <strong>A novel method for registration of MLS and stereo reconstructed point clouds</strong><br>
+    <em>Xiaochen Yang</em>, Haiping Wang, Zhen Dong, Yuan Liu, Yuhao Li, Bisheng Yang<br>
+    TGRS 2024 (IF: 8.2)<br>
+    <a href="URL_to_paper"><img src="link_to_paper_icon" alt="Paper" width="30"/></a>
+    <a href="URL_to_code"><img src="link_to_code_icon" alt="Code" width="30"/></a>
+  </div>
+</div>
 
 
 
