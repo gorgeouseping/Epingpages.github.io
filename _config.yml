@@ -22,7 +22,7 @@ repository               : "Ting-Devin-Han/Epingpages.github.io"
 author:
   # Biographic information
   avatar           : "Yiping Chen.jpg" #"https://github.com/Ting-Devin-Han/Epingpages.github.io/blob/master/images/Yiping%20Chen.jpg"
-  name             : "Yiping Chen"
+  name             : "Yiping Chen"<br>
   pronouns         : 
   bio              : 
   location         : "Zhuhai 519082, China"
