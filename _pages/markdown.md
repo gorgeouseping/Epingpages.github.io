@@ -57,7 +57,8 @@ redirect_from:
     xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
   </div>
 </div>
-<br>
+
+### Research Assistants
 
 ## Previous Students
 ### Ph.D Students
