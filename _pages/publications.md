@@ -97,6 +97,35 @@ author_profile: true
     <strong>从大模型看测绘时空信息智能处理的机遇和挑战</strong><br>
     杨必胜, <strong>陈一平*</strong>, 邹勤<br>
     武汉大学学报 (信息科学版) 2023<br>
+    <a href="http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20230378">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/BrGAN.png" alt="BrGAN" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>BrGAN: Blur Resist Generative Adversarial Network With Multiple Joint Dilated Residual Convolutions for Chlorophyll Color Image Restoration</strong><br>
+    Ziyi Chen, Yuhua Luo, <strong>Yiping Chen</strong>, Jing Wang, Dilong Li, Kyle Gao, Cheng Wang, Jonathan Li*<br>
+    IEEE Transactions on Geoscience and Remote Sensing 2023 (<strong>IF=8.2, CCF-B</strong>)<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10292559">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/ClickWentaoSun.png" alt="ClickWentaoSun" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>A Click-based Interactive Segmentation Network for Point Clouds</strong><br>
+    Wentao Sun, Zhipeng Luo, <strong>Yiping Chen*</strong>, Huxiong Li, Jose Marcato, Wesley Nunes Gonçalves, Jonathan Li*<br>
+    IEEE Transactions on Geoscience and Remote Sensing 2023 (<strong>IF=8.2, CCF-B</strong>)<br>
+    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10285459">Paper📄</a>
   </div>
 </div>
 <br>
