@@ -258,7 +258,7 @@ author_profile: true
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
-        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/TreeYongzhenWang.png" alt="TreeYongzhenWang" style="width: 90%;"/>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/PavementZhengsenXu.png" alt="PavementZhengsenXu" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
@@ -283,6 +283,48 @@ author_profile: true
   </div>
 </div>
 <br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/DFAN.png" alt="DFAN" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>DFAN: Dual-branch Feature Alignment Network for Domain Adaptation on Point Clouds</strong><br>
+    Liangwei Shi, Zhimin Yuan, Ming Cheng*, <strong>Yiping Chen</strong>, Cheng Wang<br>
+    IEEE Transactions on Geoscience and Remote Sensing 2022 (<strong>IF=8.2</strong>)<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9764731">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/Cycle-SNSPGAN.png" alt="Cycle-SNSPGAN" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Cycle-SNSPGAN: Towards Real-World Image Dehazing via Cycle Spectral Normalized Soft Likelihood Estimation Patch GAN</strong><br>
+    Yongzhen Wang, Xuefeng Yan*, Donghai Guan, Mingqiang Wei, <strong>Yiping Chen</strong>, Xiao-Ping Zhang, Jonathan Li<br>
+    IEEE Transactions on Intelligent Transportation Systems 2022 (<strong>IF=8.5</strong>)<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9766195">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/DeepUrbanDownscale.png" alt="DeepUrbanDownscale" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>DeepUrbanDownscale: A Physics Informed Deep Learning Framework for High-Resolution Urban Surface Temperature Estimation via 3D Point Clouds</strong><br>
+    Linwei Chen, Bowen Fang, Lei Zhao, Yu Zang*, Weiquan Liu, <strong>Yiping Chen</strong>, Cheng Wang, Jonathan Li<br>
+    International Journal of Applied Earth Observation and Geoinformation 2022 (<strong>IF=7.5</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0303243421003573">Paper📄</a>
+  </div>
+</div>
+<br>
 
 - <strong>A Deep-Learning-Based Method for Extracting an Arbitrary Number of Individual Power Lines from UAV-Mounted Laser Scanning Point Clouds</strong>, Sha Zhu, Qiang Li, Jianwei Zhao, Chunguang Zhang, Guang Zhao, Lu Li, Zhenghua Chen\*, **Yiping Chen**, *Remote Sensing*, 2024.
 - <strong>Road Image Free Space Detection via Learnable Deep Position Encoding</strong>, Ting Han, Siyu Chen, Jin Ma, Guorong Cai, Wuming Zhang, **Yiping Chen\***, *Geomatics and Information Science of Wuhan University*, 2024.
@@ -299,3 +341,7 @@ author_profile: true
 - <strong>Automated Detection of Oil/Gas Well Sites Detection from Multi-Source High Spatial Resolution Images</strong>, Hongjie He, Hongzhang Xu, Ying Zhang, Michael A Chapman, **Yiping Chen**, Jonathan Li, *IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium*, 2022.
 - <strong>STN: Saliency-Guided Transformer Network for Point-wise Semantic Segmentation of Urban Scenes</strong>, Lingfei Ma\*, Jonathan Li, Haiyan Guan, Yongtao Yu, **Yiping Chen**, *IEEE Geoscience and Remote Sensing Letters*, 2022.
 - <strong>Evaluation of a Compact Helmet-based Laser Scanning System for Aboveground and Underground 3D Mapping</strong>, Jianping Li, Bisheng Yang, **Yiping Chen**, Weitong Wu, Yandi Yang, Xin Zhao, Ruibo Chen, *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, 2022.
+- <strong>Urban Vegetation Segmentation using Terrestrial LiDAR Point Clouds based on Point Non-Local Means Network</strong>, **Yiping Chen**, Rongren Wu, Chengzhe Yang, Yaojin Lin\*, *International Journal of Applied Earth Observation and Geoinformation*, 2021, (**JCR Q1, IF=7.5**).
+- <strong>Spatial Evolution Path of Gulangyu Island Historical International Community: from the Perspective of Actor-Network Theory</strong>, Yuan Li, Jing Guo, Long Zhao, **Yiping Chen\***, Cheng Wang, Jonathan Li, *Heritage Science*, 2021, (**JCR Q1**).
+- <strong>A Lightweight Network for Building Extraction from Remote Sensing Images</strong>, Huaigang Huang, **Yiping Chen**, Ruisheng Wang\*, *IEEE Transactions on Geoscience and Remote Sensing*, 2021, (**JCR Q1, IF=8.2, CCF-B**).
+- <strong>Detection of Individual Trees in UAV LiDAR Point Clouds using a Deep Learning Framework based on Multi-Channel Representation</strong>, Zhipeng Luo, Ziyue Zhang, Wen Li, **Yiping Chen\***, Cheng Wang, Abdul Awal Md Nurunnabi, Jonathan Li\*, *IEEE Transactions on Geoscience and Remote Sensing*, 2021, (**JCR Q1, IF=8.2, CCF-B**).
