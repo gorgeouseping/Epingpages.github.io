@@ -40,7 +40,7 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Ting Han</strong><br>
+    <strong>Ting Han</strong><a href="ting.devin.han@gmail.com">📧</a><a href="https://scholar.google.com/citations?user=IVWx-jwAAAAJ&hl=zh-CN&oi=ao">👨‍🎓</a><a href="https://github.com/Ting-Devin-Han?tab=repositories">💻</a><br>
     xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
   </div>
 </div>
@@ -66,7 +66,7 @@ redirect_from:
   </div>
   <div style="flex: 70%;">
     <strong>Shuai Zhang</strong><a href="https://scholar.google.cz/citations?hl=zh-CN&user=7uwX40wAAAAJ">👨‍🎓</a><br>
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+    receive the M.Sc. degree in School of Geospatial Engineering and Science from Sun Yat-sen University. He is pursuing his Ph.D. in foundation model for urban at the AI4DCity lab in HKUST (GZ). His research interests include point cloud deep learning, sustainable urban development, foundation model development and application, etc.<br>
   </div>
 </div>
 <br>
@@ -89,8 +89,8 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Chaolei Wang</strong><br>
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+    <strong>Chaolei Wang</strong><a href="wangchlei5@mail2.sysu.edu.cn">📧</a><br>
+     is a graduate student at the School of Geospatial Engineering and Science, Sun Yat-sen University, China. His research focuses on 3D point cloud semantic & instance segmentation, and 3D scene understanding, etc.<br>
   </div>
 </div>
 <br>
