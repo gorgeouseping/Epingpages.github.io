@@ -1,37 +1,23 @@
 ---
 layout: archive
-title: "Sitemap"
+title: ""
 permalink: /sitemap/
 author_profile: true
 ---
 
-{% include base_path %}
+## Teaching
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+I teach Computer Vision and Pattern Recognition in the school.
+- Computer Vision and Pattern Recognition (in Chinese, Junior undergraduate at Sun Yat-sen University)
+- Computer Vision and Pattern Recognition (in Chinese, First year graduate student at Macau University of Science and Technology)
+- Scientific Writing (in Chinese, Doctoral student at Sun Yat-sen University)
+- LiDAR Remote Sensing (in Chinese, 2022)
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+I also participate in the summer school lectures.
+- 2022年空天地海智能感知技术暑期学校, 基于深度学习的三维点云植被提取研究
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+## Instructing
 
-{% capture written_label %}'None'{% endcapture %}
 
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+## Tutorial
+- 面向新工科的人工智能与测绘课程融合教改思考与实践, 《地理空间信息》
