@@ -213,6 +213,34 @@ author_profile: true
   </div>
 </div>
 <br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/DenseYouliDing.png" alt="DenseYouliDing" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Dense Context Distillation Network for Semantic Parsing of Oblique UAV Images</strong><br>
+    Youli Ding, Xianwei Zheng*, <strong>Yiping Chen</strong>, Shuhan Shen, Hanjiang Xiong<br>
+    International Journal of Applied Earth Observation and Geoinformation 2022 (<strong>IF=7.5</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S1569843222002503">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/RoadsideLinaFang.png" alt="RoadsideLinaFang" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>A Joint Deep Learning Network of Point Clouds and Multiple Views for Roadside Object Classification from LiDAR Point Clouds</strong><br>
+    Lina Fang, Zhilong You, Guixi Shen, <strong>Yiping Chen*</strong>, Jianrong Li<br>
+    ISPRS Journal of Photogrammetry and Remote Sensing 2022 (<strong>IF=12.7</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0924271622002313">Paper📄</a>
+  </div>
+</div>
+<br>
 
 - <strong>A Deep-Learning-Based Method for Extracting an Arbitrary Number of Individual Power Lines from UAV-Mounted Laser Scanning Point Clouds</strong>, Sha Zhu, Qiang Li, Jianwei Zhao, Chunguang Zhang, Guang Zhao, Lu Li, Zhenghua Chen\*, **Yiping Chen**, *Remote Sensing*, 2024.
 - <strong>Road Image Free Space Detection via Learnable Deep Position Encoding</strong>, Ting Han, Siyu Chen, Jin Ma, Guorong Cai, Wuming Zhang, **Yiping Chen\***, *Geomatics and Information Science of Wuhan University*, 2024.
@@ -222,3 +250,5 @@ author_profile: true
 - <strong>Feature Graph Convolution Network with Attentive Fusion for Large-Scale Point Clouds Semantic Segmentation</strong>, Jun Chen, **Yiping Chen\***, Cheng Wang, *IEEE Geoscience and Remote Sensing Letters*, 2023.
 - <strong>Tree Species Classfifcation Using Deep Learning Based 3d Point Cloud Transformer on Airborne Lidar Data</strong>, Lanying Wang, Dening Lu, Weikai Tan, **Yiping Chen**, Jonathan Li, *IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium*, 2023.
 - <strong>SPDC: A Super-Point and Point Combining based Dual-Scale Contrastive Learning Network for Point Cloud Semantic Segmentation</strong>, Shuai Zhang, Weihong Huang, **Yiping Chen\***, Wuming Zhang, Jonathan Li, *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, 2023.
+- <strong>基于多源数据的旅游者视觉行为模式与感知评估方法</strong>, 李渊\*, 郭晶, **陈一平**, *地球信息科学学报*, 2022.
+- <strong>Automatic Strawberry Leaf Scorch Severity Rstimation via Faster R-CNN and Few-Shot Learning</strong>, Jinchao Pan, Limei Xia, Qiufeng Wu\*, Yixin Guo, **Yiping Chen**, Xiaole Tian, *Ecological Informatics*, 2022.
