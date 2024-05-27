@@ -28,7 +28,7 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Wentao Sun</strong><br><a href="mailto:hbycswt@gmail.com">📧</a>
+    <strong>Wentao Sun</strong><br><a href="mailto:hbycswt@gmail.com">📧</a><br>
     holds a Master of Engineering (M.Eng.) in Telecommunications Engineering from Xiamen University, where he also completed his Bachelor of Engineering (B.Eng.) in the same field. He is currently pursuing a Ph.D. degree in the Geospatial Intelligence and Mapping Lab at the University of Waterloo. His research focuses on semantic segmentation for point cloud, interactive segmentation for point cloud, instance segmentation for point cloud and 3D reconstruction.<br>
   </div>
 </div>
