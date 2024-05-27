@@ -136,4 +136,4 @@ author_profile: true
 - <strong>Semantic segmentation of city road elements from point cloud based on semi-supervised graph convolution</strong>, **Yiping Chen**, Ting Han, Jun Chen, Hongchao Fan*, *Northern Lights Deep Learning Conference Abstracts*, 2023.
 - <strong>Towards detecting speed bumps from MLS point clouds data</strong>, Hongchao Fan\*, **Yiping Chen**, *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, 2023.
 - <strong>Learning point cloud context information based on 3D transformer for more accurate and efficient classification</strong>, **Yiping Chen**, Shuai Zhang\*, Weisheng Lin, Shuhang Zhang, Wuming Zhang, *The Photogrammetric Record*, 2023.
-- 
+- <strong>Feature Graph Convolution Network with Attentive Fusion for Large-Scale Point Clouds Semantic Segmentation</strong>, Jun Chen, **Yiping Chen\***, Cheng Wang, *IEEE Geoscience and Remote Sensing Letters*, 2023.
