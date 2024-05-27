@@ -65,7 +65,7 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Shuai Zhang</strong><br>
+    <strong>Shuai Zhang</strong><a href="https://scholar.google.cz/citations?hl=zh-CN&user=7uwX40wAAAAJ">👨‍🎓</a><br>
     xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
   </div>
 </div>
