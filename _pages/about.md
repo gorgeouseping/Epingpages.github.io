@@ -40,7 +40,7 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
-        <img src="" alt="Chat3D" style="width: 90%;"/>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/SPTNet.png" alt="SPTNet" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
