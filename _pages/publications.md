@@ -129,6 +129,34 @@ author_profile: true
   </div>
 </div>
 <br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/LightweightXiaoxueLiu.png" alt="LightweightXiaoxueLiu" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>A lightweight building instance extraction method based on adaptive optimization of mask contour</strong><br>
+    Xiaoxue Liu, <strong>Yiping Chen*</strong>, Cheng Wang, Kun Tan, Jonathan Li*<br>
+    International Journal of Applied Earth Observation and Geoinformation 2023 (<strong>IF=7.5</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S1569843223002443">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/LightweightXiaoxueLiu.png" alt="LightweightXiaoxueLiu" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>From tree to forest: Multiple carbon sink constraints</strong><br>
+    Hui Liu*, Lin Zhang, Qin Ma, Wei Zhao, <strong>Yiping Chen</strong><br>
+    The Innovation 2023 (<strong>IF=32.1</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S2666675823000917">Paper📄</a>
+  </div>
+</div>
+<br>
 
 
 - <strong>A Deep-Learning-Based Method for Extracting an Arbitrary Number of Individual Power Lines from UAV-Mounted Laser Scanning Point Clouds</strong>, Sha Zhu, Qiang Li, Jianwei Zhao, Chunguang Zhang, Guang Zhao, Lu Li, Zhenghua Chen\*, **Yiping Chen**, *Remote Sensing*, 2024.
@@ -137,3 +165,5 @@ author_profile: true
 - <strong>Towards detecting speed bumps from MLS point clouds data</strong>, Hongchao Fan\*, **Yiping Chen**, *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, 2023.
 - <strong>Learning point cloud context information based on 3D transformer for more accurate and efficient classification</strong>, **Yiping Chen**, Shuai Zhang\*, Weisheng Lin, Shuhang Zhang, Wuming Zhang, *The Photogrammetric Record*, 2023.
 - <strong>Feature Graph Convolution Network with Attentive Fusion for Large-Scale Point Clouds Semantic Segmentation</strong>, Jun Chen, **Yiping Chen\***, Cheng Wang, *IEEE Geoscience and Remote Sensing Letters*, 2023.
+- <strong>Tree Species Classfifcation Using Deep Learning Based 3d Point Cloud Transformer on Airborne Lidar Data</strong>, Lanying Wang, Dening Lu, Weikai Tan, **Yiping Chen**, Jonathan Li, *IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium*, 2023.
+- <strong>SPDC: A Super-Point and Point Combining based Dual-Scale Contrastive Learning Network for Point Cloud Semantic Segmentation</strong>, Shuai Zhang, Weihong Huang, **Yiping Chen\***, Wuming Zhang, Jonathan Li, *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, 2023.
