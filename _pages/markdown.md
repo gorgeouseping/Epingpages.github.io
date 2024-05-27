@@ -41,7 +41,7 @@ redirect_from:
   </div>
   <div style="flex: 70%;">
     <strong>Ting Han</strong> (2023) <a href="mailto:ting.devin.han@gmail.com">📧</a><a href="https://scholar.google.com/citations?user=IVWx-jwAAAAJ&hl=zh-CN&oi=ao">👨‍🎓</a><a href="https://github.com/Ting-Devin-Han?tab=repositories">💻</a><br>
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+     is now pursuing his Ph.D. at the School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, Guangdong, China. His research interests include image and point cloud processing, photogrammetry and remote sensing, deep learning theory, semantic segmentation in computer vision, and its applications.<br>
   </div>
 </div>
 <br>
