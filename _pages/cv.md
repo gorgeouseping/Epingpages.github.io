@@ -33,6 +33,7 @@ Scientific Society Service🎙️
 * Senior Member of IEEE
 * Senior Member of the China Society of Image and Graphics
 * Chair of the “LiDAR, Laser Altimetry, and Multisensor Fusion” Working Group of the International Society for Photogrammetry and Remote Sensing (ISPRS)
+* Vice Chair of the Committee for Women in Science and Technology, Chinese Association for Remote Sensing Applications
 
 Academic Journal Editorial Roles👀
 ======
