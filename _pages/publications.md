@@ -16,6 +16,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 </div>
+<br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
