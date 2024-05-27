@@ -9,10 +9,10 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /talks/    
+    url: /non-menu-page/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /sitemap/    
         
   #- title: "Blog Posts"
   #  url: /year-archive/
