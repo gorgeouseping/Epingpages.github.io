@@ -241,6 +241,48 @@ author_profile: true
   </div>
 </div>
 <br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/TreeYongzhenWang.png" alt="TreeYongzhenWang" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Detecting Occluded and Dense Trees in Urban Terrestrial Views with a High-Quality Tree Detection Dataset</strong><br>
+    Yongzhen Wang, Xuefeng Yan*, Hexiang Bao, <strong>Yiping Chen</strong>, Lina Gong, Mingqiang Wei, Jonathan Li<br>
+    IEEE Transactions on Geoscience and Remote Sensing 2022 (<strong>IF=8.2</strong>)<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9800966">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/TreeYongzhenWang.png" alt="TreeYongzhenWang" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Pavement Crack Detection from CCD Images with a Locally Enhanced Transformer Network</strong><br>
+    Zhengsen Xu, Haiyan Guan*, Jian Kang, Xiangda Lei, Lingfei Ma, Yongtao Yu, <strong>Yiping Chen</strong>, Jonathan Li<br>
+    International Journal of Applied Earth Observation and Geoinformation 2022 (<strong>IF=7.5</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S1569843222000279">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/WGNet.png" alt="WGNet" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>WGNet: Wider Graph convolution Networks for 3D Point Cloud Classification with Local Dilated Connecting and Context-Aware</strong><br>
+    <strong>Yiping Chen</strong>, Zhipeng Luo*, Wen Li, Haojia Lin, Abdul Nurunnabi, Yaojin Lin, Cheng Wang, Xiao-Ping Zhang, Jonathan Li<br>
+    International Journal of Applied Earth Observation and Geoinformation 2022 (<strong>IF=7.5</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S030324342200112X">Paper📄</a>
+  </div>
+</div>
+<br>
 
 - <strong>A Deep-Learning-Based Method for Extracting an Arbitrary Number of Individual Power Lines from UAV-Mounted Laser Scanning Point Clouds</strong>, Sha Zhu, Qiang Li, Jianwei Zhao, Chunguang Zhang, Guang Zhao, Lu Li, Zhenghua Chen\*, **Yiping Chen**, *Remote Sensing*, 2024.
 - <strong>Road Image Free Space Detection via Learnable Deep Position Encoding</strong>, Ting Han, Siyu Chen, Jin Ma, Guorong Cai, Wuming Zhang, **Yiping Chen\***, *Geomatics and Information Science of Wuhan University*, 2024.
@@ -252,5 +294,8 @@ author_profile: true
 - <strong>SPDC: A Super-Point and Point Combining based Dual-Scale Contrastive Learning Network for Point Cloud Semantic Segmentation</strong>, Shuai Zhang, Weihong Huang, **Yiping Chen\***, Wuming Zhang, Jonathan Li, *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, 2023.
 - <strong>基于多源数据的旅游者视觉行为模式与感知评估方法</strong>, 李渊\*, 郭晶, **陈一平**, *地球信息科学学报*, 2022.
 - <strong>Automatic Strawberry Leaf Scorch Severity Rstimation via Faster R-CNN and Few-Shot Learning</strong>, Jinchao Pan, Limei Xia, Qiufeng Wu\*, Yixin Guo, **Yiping Chen**, Xiaole Tian, *Ecological Informatics*, 2022.
+- <strong>Assessing the Impact of COVID-19 on Human Activities in the Greater Toronto Area by Nighttime Light Images and Active COVID-19 Cases</strong>, Lanying Wang, Jianshen Wang, Sarah Narges Fatholahi, Michael A Chapman, **Yiping Chen**, Jonathan Li, *IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium*, 2022.
 - <strong>Foreground-Background Segmentation of Sequential Point Clouds</strong>, Chengzhe Yang, **Yiping Chen**, Cheng Wang, Jonathan Li, *IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium*, 2022.
 - <strong>Automated Detection of Oil/Gas Well Sites Detection from Multi-Source High Spatial Resolution Images</strong>, Hongjie He, Hongzhang Xu, Ying Zhang, Michael A Chapman, **Yiping Chen**, Jonathan Li, *IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium*, 2022.
+- <strong>STN: Saliency-Guided Transformer Network for Point-wise Semantic Segmentation of Urban Scenes</strong>, Lingfei Ma\*, Jonathan Li, Haiyan Guan, Yongtao Yu, **Yiping Chen**, *IEEE Geoscience and Remote Sensing Letters*, 2022.
+- <strong>Evaluation of a Compact Helmet-based Laser Scanning System for Aboveground and Underground 3D Mapping</strong>, Jianping Li, Bisheng Yang, **Yiping Chen**, Weitong Wu, Yandi Yang, Xin Zhao, Ruibo Chen, *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, 2022.
