@@ -52,8 +52,8 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Jin Ma</strong><br>
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+    <strong>Jin Ma</strong><a href="majin8@mail2.sysu.edu.cn">📧</a><br>
+    is a Ph.D. student from the School of Geospatial Engineering and Science at Sun Yat-sen University. Her field of expertise lies in Cartography and Geographic Information Systems. Her research interests include point cloud intelligent processing and forest structural parameters measurement.<br>
   </div>
 </div>
 
