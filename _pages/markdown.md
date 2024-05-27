@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Current Students
-### Ph.D Students
+### Ph.D. Students
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
@@ -16,8 +16,8 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Xiaoxue Liu</strong><br>
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+    <strong>Xiaoxue Liu</strong><a href="liuxiaoxue@stu.xmu.edu.cn">📧</a><br>
+    received the M.Sc. degree in computer science and technology from Guizhou University, China in 2008. She is currently studying for the Ph.D. degree in information and communication engineering at Xiamen University, China. Her research interests include ground object fine recognition of high-resolution remote sensing, analysis and application of urban remote sensing data, urban change detection, etc.<br>
   </div>
 </div>
 <br>
@@ -132,7 +132,7 @@ redirect_from:
 </div>
 
 ## Previous Students
-### Ph.D Students
+### Ph.D. Students
 - Naftaly Wambugua (2022) (Kenya)
 - Zhipeng Luo (2020) (National LiDAR Outstanding Doctoral Dissertation Award, Fujian Provincial Outstanding Doctoral Dissertation)
 - Huifang Feng (2019)
