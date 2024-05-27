@@ -28,33 +28,15 @@ International Exchange Experience
 * Visiting Scholar in University of Technology Sydney, Australia, 2019-06-2019-09
 * Visiting Scholar in University of Waterloo, Canada, 2015-08-2015-10
 
-Skills
+Scientific Society Service
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Senior Member of IEEE
+* Senior Member of the China Society of Image and Graphics
+* Chair of the “LiDAR, Laser Altimetry, and Multisensor Fusion” Working Group of the International Society for Photogrammetry and Remote Sensing (ISPRS)
 
-Publications
+Academic Journal Editorial Roles
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Associate Editor of IEEE Transactions on Geoscience and Remote Sensing (JCR Q1, IF=8.2)
+* Editorial Board Member of International Journal of Applied Earth Observation and Geoinformation (JCR Q1, IF=7.5)
+* Editorial Board Member of Photogrammetric Record (JCR Q3)
+* Junior Editor of The Innovation Journal (IF=32)
