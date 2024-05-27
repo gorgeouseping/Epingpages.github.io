@@ -16,7 +16,7 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Xiaoxue Liu</strong><a [📧](liuxiaoxue@stu.xmu.edu.cn) </a><br>
+    <strong>Xiaoxue Liu</strong><a href="mailto:liuxiaoxue@stu.xmu.edu.cn">📧</a><br>
     received the M.Sc. degree in computer science and technology from Guizhou University, China in 2008. She is currently studying for the Ph.D. degree in information and communication engineering at Xiamen University, China. Her research interests include ground object fine recognition of high-resolution remote sensing, analysis and application of urban remote sensing data, urban change detection, etc.<br>
   </div>
 </div>
@@ -28,8 +28,8 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Wentao Sun</strong><br>
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+    <strong>Wentao Sun</strong><br><a href="mailto:hbycswt@gmail.com">📧</a>
+    holds a Master of Engineering (M.Eng.) in Telecommunications Engineering from Xiamen University, where he also completed his Bachelor of Engineering (B.Eng.) in the same field. He is currently pursuing a Ph.D. degree in the Geospatial Intelligence and Mapping Lab at the University of Waterloo. His research focuses on semantic segmentation for point cloud, interactive segmentation for point cloud, instance segmentation for point cloud and 3D reconstruction.<br>
   </div>
 </div>
 <br>
@@ -40,7 +40,7 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Ting Han</strong><a href="ting.devin.han@gmail.com">📧</a><a href="https://scholar.google.com/citations?user=IVWx-jwAAAAJ&hl=zh-CN&oi=ao">👨‍🎓</a><a href="https://github.com/Ting-Devin-Han?tab=repositories">💻</a><br>
+    <strong>Ting Han</strong><a href="mailto:ting.devin.han@gmail.com">📧</a><a href="https://scholar.google.com/citations?user=IVWx-jwAAAAJ&hl=zh-CN&oi=ao">👨‍🎓</a><a href="https://github.com/Ting-Devin-Han?tab=repositories">💻</a><br>
     xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
   </div>
 </div>
@@ -52,7 +52,7 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Jin Ma</strong><a href="majin8@mail2.sysu.edu.cn">📧</a><br>
+    <strong>Jin Ma</strong><a href="mailto:majin8@mail2.sysu.edu.cn">📧</a><br>
     is a Ph.D. student from the School of Geospatial Engineering and Science at Sun Yat-sen University. Her field of expertise lies in Cartography and Geographic Information Systems. Her research interests include point cloud intelligent processing and forest structural parameters measurement.<br>
   </div>
 </div>
@@ -89,7 +89,7 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Chaolei Wang</strong><a href="wangchlei5@mail2.sysu.edu.cn">📧</a><br>
+    <strong>Chaolei Wang</strong><a href="mailto:wangchlei5@mail2.sysu.edu.cn">📧</a><br>
      is a graduate student at the School of Geospatial Engineering and Science, Sun Yat-sen University, China. His research focuses on 3D point cloud semantic & instance segmentation, and 3D scene understanding, etc.<br>
   </div>
 </div>
