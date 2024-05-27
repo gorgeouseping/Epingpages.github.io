@@ -87,6 +87,19 @@ author_profile: true
   </div>
 </div>
 <br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/WHUYipingChen.png" alt="WHUYipingChen" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>从大模型看测绘时空信息智能处理的机遇和挑战</strong><br>
+    杨必胜, <strong>陈一平*</strong>, 邹勤<br>
+    武汉大学学报 (信息科学版) 2023<br>
+  </div>
+</div>
+<br>
 
 
 - <strong>A Deep-Learning-Based Method for Extracting an Arbitrary Number of Individual Power Lines from UAV-Mounted Laser Scanning Point Clouds</strong>, Sha Zhu, Qiang Li, Jianwei Zhao, Chunguang Zhang, Guang Zhao, Lu Li, Zhenghua Chen\*, **Yiping Chen**, *Remote Sensing*, 2024.
