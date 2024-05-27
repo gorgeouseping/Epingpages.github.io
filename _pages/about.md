@@ -54,13 +54,41 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/ClickWentaoSun.png" alt="ClickWentaoSun" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>A Click-based Interactive Segmentation Network for Point Clouds</strong><br>
+    Wentao Sun, Zhipeng Luo, <strong>Yiping Chen*</strong>, Huxiong Li, Jose Marcato, Wesley Nunes Gonçalves, Jonathan Li*<br>
+    IEEE Transactions on Geoscience and Remote Sensing 2023 (<strong>IF=8.2, CCF-B</strong>)<br>
+    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10285459">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/RoadsideLinaFang.png" alt="RoadsideLinaFang" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>A Joint Deep Learning Network of Point Clouds and Multiple Views for Roadside Object Classification from LiDAR Point Clouds</strong><br>
+    Lina Fang, Zhilong You, Guixi Shen, <strong>Yiping Chen*</strong>, Jianrong Li<br>
+    ISPRS Journal of Photogrammetry and Remote Sensing 2022 (<strong>IF=12.7</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0924271622002313">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/DBNet.gif" alt="DBNet" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
     <strong>LiDAR-Video Driving Dataset: Learning Driving Policies Effectively</strong><br>
     <strong>Yiping Chen</strong>, Jingkang Wang, Jonathan Li, Cewu Lu, Zhipeng Luo, Han Xue, Cheng Wang<br>
-    IEEE Conference on Computer Vision and Pattern Recognition(CVPR) 2018 (<strong>CCF-A</strong>)<br>
+    IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018 (<strong>CCF-A</strong>)<br>
     <a href="https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_LiDAR-Video_Driving_Dataset_CVPR_2018_paper.html">Paper📄</a>|
     <a href="https://github.com/driving-behavior/DBNet">Code💻</a>|
     <a href="http://www.dbehavior.net/">HomePage🏠</a>
