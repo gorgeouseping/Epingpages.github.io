@@ -146,7 +146,7 @@ author_profile: true
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
-        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/LightweightXiaoxueLiu.png" alt="LightweightXiaoxueLiu" style="width: 90%;"/>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/TheInnovation.png" alt="TheInnovation" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
@@ -157,7 +157,34 @@ author_profile: true
   </div>
 </div>
 <br>
-
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/SCL-GCN.png" alt="SCL-GCN" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>SCL-GCN: Stratified Contrastive Learning Graph Convolution Network for pavement crack detection from mobile LiDAR point clouds</strong><br>
+    Huifang Feng, Lingfei Ma*, Yongtao Yu, <strong>Yiping Chen*</strong>, Jonathan Li<br>
+    International Journal of Applied Earth Observation and Geoinformation 2023 (<strong>IF=7.5</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S1569843223000705">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/ReviewYuanLi.png" alt="ReviewYuanLi" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>3D LiDAR and multi-technology collaboration for preservation of built heritage in China: A review</strong><br>
+    Yuan Li, Long Zhao, <strong>Yiping Chen*</strong>, Na Zhang, Hongchao Fan, Zhenxin Zhang<br>
+    International Journal of Applied Earth Observation and Geoinformation 2023 (<strong>IF=7.5</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S1569843222003442">Paper📄</a>
+  </div>
+</div>
+<br>
 
 - <strong>A Deep-Learning-Based Method for Extracting an Arbitrary Number of Individual Power Lines from UAV-Mounted Laser Scanning Point Clouds</strong>, Sha Zhu, Qiang Li, Jianwei Zhao, Chunguang Zhang, Guang Zhao, Lu Li, Zhenghua Chen\*, **Yiping Chen**, *Remote Sensing*, 2024.
 - <strong>Road Image Free Space Detection via Learnable Deep Position Encoding</strong>, Ting Han, Siyu Chen, Jin Ma, Guorong Cai, Wuming Zhang, **Yiping Chen\***, *Geomatics and Information Science of Wuhan University*, 2024.
