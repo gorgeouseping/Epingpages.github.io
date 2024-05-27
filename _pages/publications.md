@@ -185,6 +185,34 @@ author_profile: true
   </div>
 </div>
 <br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/RegistrationYuanWang.png" alt="RegistrationYuanWang" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Automatic Registration of Point Cloud and Panoramic Images in Urban Scenes based on Pole Matching</strong><br>
+    Yuan Wang, Yuhao Li, <strong>Yiping Chen*</strong>, Mingjun Peng, Haiting Li, Bisheng Yang, Chi Chen, Zhen Dong<br>
+    International Journal of Applied Earth Observation and Geoinformation 2022 (<strong>IF=7.5</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S1569843222002710">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/BuildingHuifangFeng.png" alt="BuildingHuifangFeng" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Automated Extraction of Building Instances from Dual-Channel Airborne LiDAR Point Clouds</strong><br>
+    Huifang Feng, <strong>Yiping Chen*</strong>, Zhipeng Luo, Wentao Sun, Wen Li, Jonathan Li<br>
+    International Journal of Applied Earth Observation and Geoinformation 2022 (<strong>IF=7.5</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S1569843222002308">Paper📄</a>
+  </div>
+</div>
+<br>
 
 - <strong>A Deep-Learning-Based Method for Extracting an Arbitrary Number of Individual Power Lines from UAV-Mounted Laser Scanning Point Clouds</strong>, Sha Zhu, Qiang Li, Jianwei Zhao, Chunguang Zhang, Guang Zhao, Lu Li, Zhenghua Chen\*, **Yiping Chen**, *Remote Sensing*, 2024.
 - <strong>Road Image Free Space Detection via Learnable Deep Position Encoding</strong>, Ting Han, Siyu Chen, Jin Ma, Guorong Cai, Wuming Zhang, **Yiping Chen\***, *Geomatics and Information Science of Wuhan University*, 2024.
