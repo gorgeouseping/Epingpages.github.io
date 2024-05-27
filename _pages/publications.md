@@ -252,3 +252,5 @@ author_profile: true
 - <strong>SPDC: A Super-Point and Point Combining based Dual-Scale Contrastive Learning Network for Point Cloud Semantic Segmentation</strong>, Shuai Zhang, Weihong Huang, **Yiping Chen\***, Wuming Zhang, Jonathan Li, *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, 2023.
 - <strong>基于多源数据的旅游者视觉行为模式与感知评估方法</strong>, 李渊\*, 郭晶, **陈一平**, *地球信息科学学报*, 2022.
 - <strong>Automatic Strawberry Leaf Scorch Severity Rstimation via Faster R-CNN and Few-Shot Learning</strong>, Jinchao Pan, Limei Xia, Qiufeng Wu\*, Yixin Guo, **Yiping Chen**, Xiaole Tian, *Ecological Informatics*, 2022.
+- <strong>Foreground-Background Segmentation of Sequential Point Clouds</strong>, Chengzhe Yang, **Yiping Chen**, Cheng Wang, Jonathan Li, *IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium*, 2022.
+- <strong>Automated Detection of Oil/Gas Well Sites Detection from Multi-Source High Spatial Resolution Images</strong>, Hongjie He, Hongzhang Xu, Ying Zhang, Michael A Chapman, **Yiping Chen**, Jonathan Li, *IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium*, 2022.
