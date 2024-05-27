@@ -12,7 +12,7 @@ redirect_from:
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
-          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/XiaoxueLiu.jpg" alt="XiaoxueLiu" style="width: 60%;"/>
+          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/XiaoxueLiu.png" alt="XiaoxueLiu" style="width: 60%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
