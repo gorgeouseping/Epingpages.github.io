@@ -48,7 +48,7 @@ redirect_from:
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
-          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/JinMa.jpg" alt="JinMa" style="width: 60%;"/>
+          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/JinMaLife.jpg" alt="JinMa" style="width: 60%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
