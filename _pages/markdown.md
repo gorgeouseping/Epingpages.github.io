@@ -6,6 +6,18 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+## Group Life
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/QiaoIsland.jpg" alt="QiaoIsland" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Mangrove data collection on Qi'ao Island, Zhuhai</strong><br>
+    We conduct field measurements and surveys of the mangrove reserve on Qi'ao Island using handheld LiDAR, terrestrial LiDAR, and UAV. Collaborating institutions include the Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences and School of Geography and Planning, Sun Yat-sen University.<br>
+  </div>
+</div>
 
 ## Current Students
 ### Ph.D. Students
