@@ -101,7 +101,8 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
-        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/DBNet.gif" alt="DBNet" style="width: 90%;"/>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/JMC.gif" alt="JMC" style="width: 90%;"/>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/CAR.gif" alt="CAR" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
