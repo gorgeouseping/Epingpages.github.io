@@ -9,7 +9,7 @@ author_profile: true
 
 ## Publications --- 2024
 ---
-<br>
+
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
@@ -81,8 +81,8 @@ author_profile: true
 </div>
 <br>
 
-## 2023
-<br>
+## Publications --- 2023
+---
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
@@ -182,8 +182,8 @@ author_profile: true
 </div>
 <br>
 
-## 2022
-<br>
+## Publications --- 2022
+---
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
