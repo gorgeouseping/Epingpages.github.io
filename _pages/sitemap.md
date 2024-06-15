@@ -21,10 +21,4 @@ I also participate in the summer school lectures.
 ## Tutorial
 - 面向新工科的人工智能与测绘课程融合教改思考与实践, 《地理空间信息》
 
-## Knowledge services
-### Public Avaliable Point Cloud Dataset
-- S3DIS
-- ScanNet
-- Semantic 3D
-- Toronto 3D
-- Semantic KITTI
+
