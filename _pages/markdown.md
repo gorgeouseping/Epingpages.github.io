@@ -8,12 +8,12 @@ redirect_from:
 ---
 ## Group Life
 <div style="display: flex; align-items: center; width: 100%;">
-  <div style="flex: 30%;">
+  <div style="flex: 50%;">
     <a>
-        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/QiaoIsland.jpg" alt="QiaoIsland" style="width: 90%;"/>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/Qiao.png" alt="QiaoIsland" style="width: 90%;"/>
     </a>
   </div>
-  <div style="flex: 70%;">
+  <div style="flex: 50%;">
     <strong>Mangrove data collection on Qi'ao Island, Zhuhai</strong><br>
     We conduct field measurements and surveys of the mangrove reserve on Qi'ao Island using handheld LiDAR, terrestrial LiDAR, and UAV. Collaborating institutions include the Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences and School of Geography and Planning, Sun Yat-sen University.<br>
   </div>
@@ -90,7 +90,7 @@ redirect_from:
   </div>
   <div style="flex: 70%;">
     <strong>Xiangyi Xie</strong> (2022) <br>
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+    received a Bachelor's degree from Hohai University in 2022. She is currently pursuing a Master's degree in Cartography and Geographic Information Systems at School of Geospatial Engineering and Science, Sun Yat-sen University. Her research focuses on road information extraction, image segmentation, and remote sensing data analysis.<br>
   </div>
 </div>
 <br>
@@ -114,7 +114,7 @@ redirect_from:
   </div>
   <div style="flex: 70%;">
     <strong>Yumeng Du</strong> (2023) <br>
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+    received her Bachelor's degree in Geomatics Engineering from the China University of Geosciences, Beijing in 2023. She is currently studying for her Master's degree at the School of Geospatial Engineering and Science, Sun Yat-Sen University. Her research interests include deep learning for point cloud semantic segmentation.<br>
   </div>
 </div>
 <br>
@@ -126,7 +126,7 @@ redirect_from:
   </div>
   <div style="flex: 70%;">
     <strong>Zilong Huang</strong> (2024) <br>
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+    <br>
   </div>
 </div>
 
@@ -139,7 +139,7 @@ redirect_from:
   </div>
   <div style="flex: 70%;">
     <strong>Xi Xu</strong><br>
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx<br>
+    <br>
   </div>
 </div>
 
