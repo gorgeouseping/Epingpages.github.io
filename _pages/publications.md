@@ -7,7 +7,8 @@ author_profile: true
 
 <div class="wordwrap">You can also find my papers on <a href="https://scholar.google.com/citations?hl=zh-CN&user=e9lv2fUAAAAJ">Google Scholar of Yiping Chen</a>.</div>
 
-### 2024
+## 2024
+<br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
@@ -79,7 +80,8 @@ author_profile: true
 </div>
 <br>
 
-### 2023
+## 2023
+<br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
@@ -179,7 +181,8 @@ author_profile: true
 </div>
 <br>
 
-### 2022
+## 2022
+<br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
