@@ -18,7 +18,7 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 ## News 💥💥💥
 - 2024-05-15: Yiping Chen is appointed as the **chair** of the [ISPRS WG I/4 working group](https://www2.isprs.org/commissions/comm1/wg4/)!
 - 2024-04-22: The paper [Chat3D: Interactive Understanding 3D Scene-Level Point Clouds by Chatting with Foundation Model for Urban Ecological Construction](https://www.sciencedirect.com/science/article/pii/S0924271624001849) is accepted by **<font color=red>ISPRS Journal</font>**!
-- 2024-03-16: The paper is accept as an **Oral presentation** in the **<font color=red>IGARSS 2024</font>**!
+- 2024-03-16: The paper is accept as an **oral presentation** in the **<font color=red>IGARSS 2024</font>**!
 - 2024-02-27: The paper [SPTNet: Sparse Convolution and Transformer Network for Woody and Foliage Components Separation from Point Clouds](https://ieeexplore.ieee.org/abstract/document/10466757) is accepted by **<font color=red>IEEE TGRS</font>**!
 - 2024-02-24: The paper [Joint Structure Detection and Multi-Scale Clustering Filtering for Tunnel Lining Extraction From Point Clouds](https://ieeexplore.ieee.org/abstract/document/10492659) is accepted by **<font color=red>IEEE TITS</font>**!
 - 2024-02-02: The paper [Low-FaceNet: Face recognition-driven low-light image enhancement](https://ieeexplore.ieee.org/abstract/document/10476748) is accepted by **<font color=red>IEEE TIM</font>**!
