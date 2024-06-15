@@ -325,6 +325,9 @@ author_profile: true
 </div>
 <br>
 
+- <strong>面向地外天体熔岩管的三维探测与形态研究</strong>, 杜雨萌, **陈一平\***, 张帅, 张吴明, *深空探测学报*, 2024.
+- <strong>基于轻量型移动测量系统的地外熔岩隧道3D探测与地表验证</strong>, 赵昕, 梁福逊, 李健平, **陈一平**, 杨必胜, *深空探测学报*, 2024.
+- <strong>探地雷达对天体熔岩管道探测技术验证</strong>, 徐懿, 陈锐, 黄汉钧, 孟新栋, **陈一平**, 张领, 张骏, 肖龙, *深空探测学报*, 2024.
 - <strong>A Deep-Learning-Based Method for Extracting an Arbitrary Number of Individual Power Lines from UAV-Mounted Laser Scanning Point Clouds</strong>, Sha Zhu, Qiang Li, Jianwei Zhao, Chunguang Zhang, Guang Zhao, Lu Li, Zhenghua Chen\*, **Yiping Chen**, *Remote Sensing*, 2024.
 - <strong>Road Image Free Space Detection via Learnable Deep Position Encoding</strong>, Ting Han, Siyu Chen, Jin Ma, Guorong Cai, Wuming Zhang, **Yiping Chen\***, *Geomatics and Information Science of Wuhan University*, 2024.
 - <strong>Semantic segmentation of city road elements from point cloud based on semi-supervised graph convolution</strong>, **Yiping Chen**, Ting Han, Jun Chen, Hongchao Fan\*, *Northern Lights Deep Learning Conference Abstracts*, 2023.
