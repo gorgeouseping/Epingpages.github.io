@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my papers on <a href="{{https://scholar.google.com/citations?hl=zh-CN&user=e9lv2fUAAAAJ&view_op=list_works&sortby=pubdate}}">Google Scholar of Yiping Chen</a>.</div>
+  <div class="wordwrap">You can also find my papers on <a href="{https://scholar.google.com/citations?hl=zh-CN&user=e9lv2fUAAAAJ}">Google Scholar of Yiping Chen</a>.</div>
 {% endif %}
 
 <div style="display:none">
