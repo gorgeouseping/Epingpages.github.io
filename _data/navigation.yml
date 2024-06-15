@@ -14,10 +14,8 @@ main:
   - title: "Teaching"
     url: /sitemap/    
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
-  
+  - title: "Honours"
+    url: /terms/
     
   - title: "Group"
     url: /markdown/
