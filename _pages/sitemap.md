@@ -12,7 +12,8 @@ I teach Computer Vision and Pattern Recognition in the school.
 - Artificial Intelligence Technology (in Chinese, First year graduate student at Macau University of Science and Technology)
 - Scientific Writing (in Chinese, Doctoral student at Sun Yat-sen University)
 - LiDAR Remote Sensing (in Chinese, 2022)
-<br/>
+
+
 I also participate in the summer school lectures.
 - 2022年空天地海智能感知技术暑期学校, 基于深度学习的三维点云植被提取研究
 
