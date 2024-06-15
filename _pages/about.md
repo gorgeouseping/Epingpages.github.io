@@ -103,6 +103,8 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
     <a>
         <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/JMC.gif" alt="JMC" style="width: 90%;"/>
         <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/CAR.gif" alt="CAR" style="width: 90%;"/>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/XHR.gif" alt="XHR" style="width: 90%;"/>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/YWR.gif" alt="YWR" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
