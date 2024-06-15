@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my papers on <a href="https://scholar.google.com/citations?hl=zh-CN&user=e9lv2fUAAAAJ">Google Scholar of Yiping Chen</a>.</div>
-{% endif %}
+<div class="wordwrap">You can also find my papers on <a href="https://scholar.google.com/citations?hl=zh-CN&user=e9lv2fUAAAAJ">Google Scholar of Yiping Chen</a>.</div>
+
 
 <div style="display:none">
 {% include base_path %}
