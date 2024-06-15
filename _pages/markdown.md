@@ -89,7 +89,7 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Xiangyi Xie</strong> (2022) <br>
+    <strong>Xiangyi Xie</strong> (2022) <a href="mailto:xiexy99mail2.sysu.edu.cn">📧</a><br>
     received a Bachelor's degree from Hohai University in 2022. She is currently pursuing a Master's degree in Cartography and Geographic Information Systems at School of Geospatial Engineering and Science, Sun Yat-sen University. Her research focuses on road information extraction, image segmentation, and remote sensing data analysis.<br>
   </div>
 </div>
