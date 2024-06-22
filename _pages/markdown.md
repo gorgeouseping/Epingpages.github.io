@@ -10,14 +10,15 @@ redirect_from:
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 50%;">
     <a>
-        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/lectureHongchaoFan.png" alt="HongchaoFan" style="width: 90%;"/>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/lectureHongchaoFan.jpg" alt="HongchaoFan" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 50%;">
     <strong>Professor Hongchao Fan delivered an academic lecture</strong><br>
-    On June 12, 2024, at the invitation of Yiping Chen, Professor [Hongchao Fan](https://www.ntnu.edu/employees/hongchao.fan) from the Department of Civil and Environmental Engineering at the Norwegian University of Science and Technology delivered an academic lecture at our institute titled "A Crowdsourcing Approach to Generate 3D Building Models." <br>
+    On June 12, 2024, at the invitation of Yiping Chen, Professor <a href="https://www.ntnu.edu/employees/hongchao.fan">**Hongchao Fan**</a> from the Department of Civil and Environmental Engineering at the Norwegian University of Science and Technology delivered an academic lecture at our institute titled "A Crowdsourcing Approach to Generate 3D Building Models." <br>
   </div>
 </div>
+<br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 50%;">
     <a>
@@ -150,7 +151,7 @@ redirect_from:
   </div>
   <div style="flex: 70%;">
     <strong>Xi Xu</strong><br>
-    <br>
+    is currently pursuing a master's degree in Spatial Big Data Analysis at the Macau University of Science and Technology. Her research interests include deep learning for point cloud semantic segmentation.<br>
   </div>
 </div>
 
