@@ -15,7 +15,7 @@ redirect_from:
   </div>
   <div style="flex: 50%;">
     <strong>Professor Hongchao Fan delivered an academic lecture</strong><br>
-    On June 12, 2024, at the invitation of Yiping Chen, Professor <a href="https://www.ntnu.edu/employees/hongchao.fan">**Hongchao Fan**</a> from the Department of Civil and Environmental Engineering at the Norwegian University of Science and Technology delivered an academic lecture at our institute titled "A Crowdsourcing Approach to Generate 3D Building Models." <br>
+    On June 12, 2024, at the invitation of Yiping Chen, Professor <a href="https://www.ntnu.edu/employees/hongchao.fan"><strong>Hongchao Fan</strong></a> from the Department of Civil and Environmental Engineering at the Norwegian University of Science and Technology delivered an academic lecture at our institute titled "A Crowdsourcing Approach to Generate 3D Building Models." <br>
   </div>
 </div>
 <br>
