@@ -16,6 +16,7 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 </p>
 
 ## News 💥💥💥
+- 2024-06-12: At the invitation of Yiping Chen, Professor **Hongchao Fan** from the Department of Civil and Environmental Engineering at the Norwegian University of Science and Technology delivered the academic lecture!
 - 2024-05-31：陈一平副教授当选[国际数字地球学会中国国家委员会](https://www.cnisde.digitalearth-isde.org/professional-committee/index_58.html)**激光雷达专业委员会副秘书长**！
 - 2024-05-15: Yiping Chen is appointed as the **chair** of the [ISPRS WG I/4 working group](https://www2.isprs.org/commissions/comm1/wg4/)!
 - 2024-04-22: The paper [Chat3D: Interactive Understanding 3D Scene-Level Point Clouds by Chatting with Foundation Model for Urban Ecological Construction](https://www.sciencedirect.com/science/article/pii/S0924271624001849) is accepted by **<font color=red>ISPRS Journal</font>**!
