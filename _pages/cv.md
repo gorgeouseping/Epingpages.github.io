@@ -34,6 +34,7 @@ Scientific Society Service🎙️
 * Senior Member of the China Society of Image and Graphics
 * Chair of the “LiDAR, Laser Altimetry, and Multisensor Fusion” Working Group of the International Society for Photogrammetry and Remote Sensing (ISPRS)
 * Vice Chair of the Committee for Women in Science and Technology, Chinese Association for Remote Sensing Applications
+* Deputy Secretary-General of Lidar Subcommittee, Chinese National Committee of the International Society for Digital Earth
 
 Academic Journal Editorial Roles👀
 ======
