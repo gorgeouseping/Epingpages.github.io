@@ -10,6 +10,18 @@ redirect_from:
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 50%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/lectureLinYang.jpg" alt="LinYang" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 50%;">
+    <strong>Professor Lin Yang delivered an academic lecture</strong><br>
+    On June 26, 2024, at the invitation of Yiping Chen, Professor <a href="https://sgos.nju.edu.cn/yl1/list.htm"><strong>Lin Yang</strong></a> from the School of Geography and Ocean Science at the Nanjing University delivered an academic lecture at our institute titled "AI与大数据时代的土壤推理制图". <br>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 50%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/lectureHongchaoFan.jpg" alt="HongchaoFan" style="width: 90%;"/>
     </a>
   </div>
