@@ -10,6 +10,18 @@ redirect_from:
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 50%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/IGARSS2024.jpg" alt="IGARSS2024" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 50%;">
+    <strong>The Goup participates in the IGARSS 2024</strong><br>
+    On Jul. 7-12, 2024, Yiping Chen and her students attended <a href="https://www.2024.ieeeigarss.org/index.php"><strong>2024 IEEE International Geoscience and Remote Sensing (IGARSS 2024)</strong></a> in Athens, Greece. Two research papers were presented in the form of <strong>oral presentation</strong> at the conference proceedings.<br>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 50%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/lectureLinYang.jpg" alt="LinYang" style="width: 90%;"/>
     </a>
   </div>
