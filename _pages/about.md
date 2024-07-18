@@ -16,6 +16,7 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 </p>
 
 ## News 💥💥💥
+- 2024-07-12：**<font color=red>Two research papers</font>** were accepted in the form of **oral presentations** at [IEEE IGARSS 2024 Proceedings](https://www.2024.ieeeigarss.org/index.php)!
 - 2024-06-18：陈一平副教授作为**主要完成人**参与“我国卫星遥感在极地科考中取得重大成果”入选[**2023年度遥感领域十大事件**](http://www.carsa.org.cn/site/content/1131.html)!
 - 2024-05-31：陈一平副教授当选[国际数字地球学会中国国家委员会](https://www.cnisde.digitalearth-isde.org/professional-committee/index_58.html)**激光雷达专业委员会副秘书长**！
 - 2024-05-15: Yiping Chen is appointed as the **chair** of the [ISPRS WG I/4 working group](https://www2.isprs.org/commissions/comm1/wg4/)!
