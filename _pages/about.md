@@ -16,16 +16,19 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 </p>
 
 ## News 💥💥💥
+- 2024-08-06: The paper [Crack-UNet: Multiscale Feature Learning Network for Pavement Crack Detection From Large-Scale MLS Point Clouds](https://ieeexplore.ieee.org/abstract/document/10623842) is accepted by **<font color=red>IEEE T-ITS</font>**!
+- 2024-07-26: The paper [Temporal-spectral-semantic-aware convolutional transformer network for multi-class tidal wetland change detection in Greater Bay Area](https://www.sciencedirect.com/science/article/pii/S0924271624002910) is accepted by **<font color=red>ISPRS Journal</font>**!
 - 2024-07-12：**<font color=red>Two research papers</font>** were accepted in the form of **oral presentations** at [IEEE IGARSS 2024 Proceedings](https://www.2024.ieeeigarss.org/index.php)!
+- 2024-07-01: The paper [Point and voxel cross perception with lightweight cosformer for large-scale point cloud semantic segmentation](https://www.sciencedirect.com/science/article/pii/S1569843224003054) is accepted by **<font color=red>JAG</font>**!
 - 2024-06-18：陈一平副教授作为**主要完成人**参与“我国卫星遥感在极地科考中取得重大成果”入选[**2023年度遥感领域十大事件**](http://www.carsa.org.cn/site/content/1131.html)!
 - 2024-05-31：陈一平副教授当选[国际数字地球学会中国国家委员会](https://www.cnisde.digitalearth-isde.org/professional-committee/index_58.html)**激光雷达专业委员会副秘书长**！
 - 2024-05-15: Yiping Chen is appointed as the **chair** of the [ISPRS WG I/4 working group](https://www2.isprs.org/commissions/comm1/wg4/)!
 - 2024-04-22: The paper [Chat3D: Interactive Understanding 3D Scene-Level Point Clouds by Chatting with Foundation Model for Urban Ecological Construction](https://www.sciencedirect.com/science/article/pii/S0924271624001849) is accepted by **<font color=red>ISPRS Journal</font>**!
 - 2024-03-16: The paper is accept as an **oral presentation** in the **<font color=red>IGARSS 2024</font>**!
-- 2024-02-27: The paper [SPTNet: Sparse Convolution and Transformer Network for Woody and Foliage Components Separation from Point Clouds](https://ieeexplore.ieee.org/abstract/document/10466757) is accepted by **<font color=red>IEEE TGRS</font>**!
-- 2024-02-24: The paper [Joint Structure Detection and Multi-Scale Clustering Filtering for Tunnel Lining Extraction From Point Clouds](https://ieeexplore.ieee.org/abstract/document/10492659) is accepted by **<font color=red>IEEE TITS</font>**!
-- 2024-02-02: The paper [Low-FaceNet: Face recognition-driven low-light image enhancement](https://ieeexplore.ieee.org/abstract/document/10476748) is accepted by **<font color=red>IEEE TIM</font>**!
-- 2024-01-18: The paper [A Survey of Point Cloud Completion](https://ieeexplore.ieee.org/abstract/document/10433645) is accepted by **<font color=red>IEEE JSTARS</font>**!
+- 2024-02-27: The paper [SPTNet: Sparse Convolution and Transformer Network for Woody and Foliage Components Separation from Point Clouds](https://ieeexplore.ieee.org/abstract/document/10466757) is accepted by **<font color=red>IEEE T-GRS</font>**!
+- 2024-02-24: The paper [Joint Structure Detection and Multi-Scale Clustering Filtering for Tunnel Lining Extraction From Point Clouds](https://ieeexplore.ieee.org/abstract/document/10492659) is accepted by **<font color=red>IEEE T-ITS</font>**!
+- 2024-02-02: The paper [Low-FaceNet: Face recognition-driven low-light image enhancement](https://ieeexplore.ieee.org/abstract/document/10476748) is accepted by **<font color=red>IEEE T-IM</font>**!
+- 2024-01-18: The paper [A Survey of Point Cloud Completion](https://ieeexplore.ieee.org/abstract/document/10433645) is accepted by **<font color=red>IEEE J-STARS</font>**!
 
 ## Representative Publication 🔥🔥🔥
 <div style="display: flex; align-items: center; width: 100%;">
