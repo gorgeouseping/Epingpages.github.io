@@ -17,7 +17,7 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
 
 ## News 💥💥💥
 - 2024-08-06: The paper [Crack-UNet: Multiscale Feature Learning Network for Pavement Crack Detection From Large-Scale MLS Point Clouds](https://ieeexplore.ieee.org/abstract/document/10623842) is accepted by **<font color=red>IEEE T-ITS</font>**!
-- 2024-07-26: The paper [Temporal-spectral-semantic-aware convolutional transformer network for multi-class tidal wetland change detection in Greater Bay Area](https://www.sciencedirect.com/science/article/pii/S0924271624002910) is accepted by **<font color=red>ISPRS Journal</font>**!
+- 2024-07-26: The paper [Temporal-Spectral-Semantic-Aware Convolutional Transformer Network for Multi-class Tidal Wetland Change Detection in Greater Bay Area](https://www.sciencedirect.com/science/article/pii/S0924271624002910) is accepted by **<font color=red>ISPRS Journal</font>**!
 - 2024-07-12：**<font color=red>Two research papers</font>** were accepted in the form of **oral presentations** at [IEEE IGARSS 2024 Proceedings](https://www.2024.ieeeigarss.org/index.php)!
 - 2024-07-01: The paper [Point and Voxel Cross Perception with Lightweight Cosformer for Large-Scale Point Cloud Semantic Segmentation](https://www.sciencedirect.com/science/article/pii/S1569843224003054) is accepted by **<font color=red>JAG</font>**!
 - 2024-06-18：陈一平副教授作为**主要完成人**参与“我国卫星遥感在极地科考中取得重大成果”入选[**2023年度遥感领域十大事件**](http://www.carsa.org.cn/site/content/1131.html)!
@@ -40,10 +40,11 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
   <div style="flex: 70%;">
     <strong>Crack-UNet: Multiscale Feature Learning Network for Pavement Crack Detection From Large-Scale MLS Point Clouds</strong><br>
     Huifang Feng, Wen Li, Lingfei Ma*, <strong>Yiping Chen*</strong>, Haiyan Guan, Yongtao Yu, José Marcato, Jonathan Li<br>
-    IEEE Transactions on Intelligent Transportation Systems 2024 (<strong>IF=7.9</strong>)<br>
+    IEEE Transactions on Intelligent Transportation Systems 2024 (<strong>IF=7.9, CCF-B</strong>)<br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10623842">Paper📄</a>
   </div>
 </div>
+<br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
@@ -57,6 +58,7 @@ Yiping Chen is an **Associate Professor** / **Ph.D. Supervisor** at the [School 
     <a href="https://www.sciencedirect.com/science/article/pii/S1569843224003054">Paper📄</a>
   </div>
 </div>
+<br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
