@@ -29,7 +29,8 @@ author_profile: true
         <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/TSSA-CTNet.png" alt="TSSA-CTNet" style="width: 90%;"/>
     </a>
   </div>
-  <div style="flex: 70%;">Temporal-Spectral-Semantic-Aware Convolutional Transformer Network for Multi-class Tidal Wetland Change Detection in Greater Bay Area</strong><br>
+  <div style="flex: 70%;">
+    <strong>Temporal-Spectral-Semantic-Aware Convolutional Transformer Network for Multi-class Tidal Wetland Change Detection in Greater Bay Area</strong><br>
     Siyu Qian, Zhaohui Xue*, Mingming Jia, <strong>Yiping Chen</strong>, Hongjun Su<br>
     ISPRS Journal of Photogrammetry and Remote Sensing 2024 (<strong>IF=12.7</strong>)<br>
     <a href="https://www.sciencedirect.com/science/article/pii/S0924271624002910">Paper📄</a>
