@@ -9,7 +9,47 @@ author_profile: true
 
 ## Publications --- 2024
 ---
-
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/Crack-UNet.png" alt="Crack-UNet" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Crack-UNet: Multiscale Feature Learning Network for Pavement Crack Detection From Large-Scale MLS Point Clouds</strong><br>
+    Huifang Feng, Wen Li, Lingfei Ma*, <strong>Yiping Chen*</strong>, Haiyan Guan, Yongtao Yu, José Marcato, Jonathan Li<br>
+    IEEE Transactions on Intelligent Transportation Systems 2024 (<strong>IF=7.9, CCF-B</strong>)<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10623842">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/TSSA-CTNet.png" alt="TSSA-CTNet" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">Temporal-Spectral-Semantic-Aware Convolutional Transformer Network for Multi-class Tidal Wetland Change Detection in Greater Bay Area</strong><br>
+    Siyu Qian, Zhaohui Xue*, Mingming Jia, <strong>Yiping Chen</strong>, Hongjun Su<br>
+    ISPRS Journal of Photogrammetry and Remote Sensing 2024 (<strong>IF=12.7</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0924271624002910">Paper📄</a>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/PVCFormer.png" alt="PVCFormer" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Point and Voxel Cross Perception with Lightweight Cosformer for Large-Scale Point Cloud Semantic Segmentation</strong><br>
+    Shuai Zhang, Biao Wang, <strong>Yiping Chen*</strong>, Shuhang Zhang, Wuming Zhang<br>
+    International Journal of Applied Earth Observation and Geoinformation 2024 (<strong>IF=7.6</strong>)<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S1569843224003054">Paper📄</a>
+  </div>
+</div>
+<br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
