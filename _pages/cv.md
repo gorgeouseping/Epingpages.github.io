@@ -40,6 +40,6 @@ Academic Journal Editorial Roles👀
 ======
 * Associate Editor of IEEE Geoscience and Remote Sensing Magazine (JCR Q1, IF=14.6)
 * Associate Editor of IEEE Transactions on Geoscience and Remote Sensing (JCR Q1, IF=8.2)
-* Editorial Board Member of International Journal of Applied Earth Observation and Geoinformation (JCR Q1, IF=7.5)
+* Associate Editor of International Journal of Applied Earth Observation and Geoinformation (JCR Q1, IF=7.6)
 * Editorial Board Member of Photogrammetric Record (JCR Q3)
-* Junior Editor of The Innovation Journal (IF=32)
+* Junior Editor of The Journal of Innovation (IF=32)
