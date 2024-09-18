@@ -180,6 +180,18 @@ redirect_from:
 
 ## Previous Students
 ### Ph.D. Students
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/Naftaly.png" alt="Naftaly" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Naftaly Muriuki Wambugu</strong> (2022届) (Kenya) <a href="https://scholar.google.com/citations?hl=zh-CN&user=ItyaIXsAAAAJ&view_op=list_works&sortby=pubdate">👨‍🎓</a><br>
+    is pursuing a <strong>postdoctoral fellowship at Shenzhen University</strong> under the supervision of Professor <a href="https://profiles.ucalgary.ca/ruisheng-wang">Ruisheng Wang</a>.[Wang ](https://profiles.ucalgary.ca/ruisheng-wang).<br>
+  </div>
+</div>
+<br>
 - **Naftaly Wambugua** (2022届) (Kenya) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=ItyaIXsAAAAJ&view_op=list_works&sortby=pubdate). He is pursuing a **postdoctoral fellowship at Shenzhen University** under the supervision of Professor [Wang Ruisheng](https://profiles.ucalgary.ca/ruisheng-wang).
 - Zhipeng Luo (2020) (National LiDAR Outstanding Doctoral Dissertation Award, Fujian Provincial Outstanding Doctoral Dissertation)
 - Huifang Feng (2019)
