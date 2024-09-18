@@ -188,12 +188,22 @@ redirect_from:
   </div>
   <div style="flex: 70%;">
     <strong>Naftaly Muriuki Wambugu</strong> (2022届) (Kenya) <a href="https://scholar.google.com/citations?hl=zh-CN&user=ItyaIXsAAAAJ&view_op=list_works&sortby=pubdate">👨‍🎓</a><br>
-    is pursuing a <strong>postdoctoral fellowship at Shenzhen University</strong> under the supervision of Professor <a href="https://profiles.ucalgary.ca/ruisheng-wang">Ruisheng Wang</a>.[Wang ](https://profiles.ucalgary.ca/ruisheng-wang).<br>
+    is pursuing a <strong>postdoctoral fellowship at Shenzhen University</strong> under the supervision of Professor <a href="https://profiles.ucalgary.ca/ruisheng-wang">Ruisheng Wang</a>.<br>
   </div>
 </div>
 <br>
-- **Naftaly Wambugua** (2022届) (Kenya) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=ItyaIXsAAAAJ&view_op=list_works&sortby=pubdate). He is pursuing a **postdoctoral fellowship at Shenzhen University** under the supervision of Professor [Wang Ruisheng](https://profiles.ucalgary.ca/ruisheng-wang).
-- Zhipeng Luo (2020) (National LiDAR Outstanding Doctoral Dissertation Award, Fujian Provincial Outstanding Doctoral Dissertation)
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/ZhipengLuo.png" alt="ZhipengLuo" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Zhipeng Luo</strong> (2020届) (National LiDAR Outstanding Doctoral Dissertation Award, Fujian Provincial Outstanding Doctoral Dissertation) <a href="https://scholar.google.com/citations?hl=zh-CN&user=0KdXw88AAAAJ&view_op=list_works&sortby=pubdate">👨‍🎓</a><a href="https://zpluoxmu.github.io/">🏠</a><br>
+    is <strong>associate professor of department of computer science with Minnan Normal University</strong>, Zhangzhou, China. He received the Ph.D. degree in photogrammetry and remote sensing from Fujian Key Laboratory of Sensing and Computing for Smart Cities, School of Informatics, Xiamen University, Xiamen, China, in July 2020 under the supervision of Professors Yiping Chen and <a href="https://uwaterloo.ca/geography-environmental-management/profiles/jonathan-li">Jonathan Li</a>. From 2021 to 2022, he was a post-doctoral researcher with Hong Kong Polytechnic University, Hong Kong under the supervision of Professor <a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-shi-wen-zhong/">Wenzhong Shi</a>. His research interests include autonomous driving, mobile laser scanning, intelligent processing of point clouds, 3-D computer vision, and machine learning.<br>
+  </div>
+</div>
+<br>
 - Huifang Feng (2019)
 - Pengdi Huang (2017) (Excellent doctoral dissertation in Fujian Province)
   
@@ -206,7 +216,7 @@ redirect_from:
   </div>
   <div style="flex: 70%;">
     <strong>Shuai Zhang</strong> (2024届) <a href="https://scholar.google.cz/citations?hl=zh-CN&user=7uwX40wAAAAJ">👨‍🎓</a><br>
-    receive the M.Sc. degree in School of Geospatial Engineering and Science from Sun Yat-sen University. He is pursuing his Ph.D. in foundation model for urban at the AI4DCity lab in HKUST (GZ). His research interests include point cloud deep learning, sustainable urban development, foundation model development and application, etc.<br>
+    receive the M.Sc. degree in School of Geospatial Engineering and Science from Sun Yat-sen University. He is pursuing his <strong>Ph.D.</strong> in foundation model for urban at the AI4DCity lab in <strong>HKUST (GZ)</strong>. His research interests include point cloud deep learning, sustainable urban development, foundation model development and application, etc.<br>
   </div>
 </div>
 <br>
