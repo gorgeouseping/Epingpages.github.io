@@ -223,8 +223,8 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Pengdi Huang</strong> (2017届) (Excellent doctoral dissertation in Fujian Province) <a href="https://scholar.google.com/citations?hl=zh-CN&user=MKjgy_UAAAAJ&view_op=list_works&sortby=pubdate">👨‍🎓</a><a href=http://116.13.96.53:81/csse/pages/user/index?id=1163">🏠</a><br>
-    is <strong>associate researcher at the Visual Computing Research Center, College of Computer Science and Software Engineering, Shenzhen University.</strong>. He received his Ph.D. in Engineering in Signal and Information Processing from Xiamen University in July 2017. His research interests mainly include 3D point cloud processing, LiDAR point cloud scene understanding and recognition, and robotic vision.<br>
+    <strong>Pengdi Huang</strong> (2017届) (Excellent doctoral dissertation in Fujian Province) <a href="https://scholar.google.com/citations?hl=zh-CN&user=MKjgy_UAAAAJ&view_op=list_works&sortby=pubdate">👨‍🎓</a><br>
+    is <strong>associate researcher at the Visual Computing Research Center, College of Computer Science and Software Engineering, Shenzhen University</strong>. He received his Ph.D. in Engineering in Signal and Information Processing from Xiamen University in July 2017. His research interests mainly include 3D point cloud processing, LiDAR point cloud scene understanding and recognition, and robotic vision.<br>
   </div>
 </div>
 <br>
@@ -242,20 +242,19 @@ redirect_from:
   </div>
 </div>
 <br>
-- Guoyan Li (2021)
-- Zhengchuan Sha (2021)
-- Jiahao Lin (2021)
-- Hongbin Zeng (2020)
-- Weisheng Lin (2020)
-- Jianlan Gao (2020)
-- Rongren Wu (2019)
-- Zheng Zhang (2019)
-- Zhiyou Hong (2019)
-- Chengzhe Yang (2019)
-- Jianfeng Liu (2018)
-- Gen Li (2018)
-- Yulong Liu (2017)
-- Hairong Zhang (2016)
-- Xichao Guo (2016)
-- Shengxia Weng (2016)
-- Ruoshen Wu (2015)
+
+- **Chengzhe Yang** (2022届)(**海信**)
+- **Guoyan Li** (2021届)(**美团**)
+- **HaoJia Lin** (2021届)(**厦门大学信息学院博士生**)
+- **Hongbin Zeng** (2020届)(**厦门航空**)
+- **Weisheng Lin** (2020届)
+- **Jianlan Gao** (2020届)
+- **Rongren Wu** (2019届)
+- **Zheng Zhang** (2019届)(**橙心优选**)
+- **Jianfeng Liu** (2018届)(**深圳相摩科技**)
+- **Gen Li** (2018届)
+- **Yulong Liu** (2017届)
+- **Hairong Zhang** (2016届)
+- **Xichao Guo** (2016届)
+- **Shengxia Weng** (2016届)
+- **Ruoshen Wu** (2015届)
