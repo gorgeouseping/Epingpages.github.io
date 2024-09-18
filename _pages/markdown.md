@@ -109,18 +109,6 @@ redirect_from:
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
-          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/ShuaiZhang.jpg" alt="ShuaiZhang" style="width: 60%;"/>
-    </a>
-  </div>
-  <div style="flex: 70%;">
-    <strong>Shuai Zhang</strong> (2021) <a href="https://scholar.google.cz/citations?hl=zh-CN&user=7uwX40wAAAAJ">👨‍🎓</a><br>
-    receive the M.Sc. degree in School of Geospatial Engineering and Science from Sun Yat-sen University. He is pursuing his Ph.D. in foundation model for urban at the AI4DCity lab in HKUST (GZ). His research interests include point cloud deep learning, sustainable urban development, foundation model development and application, etc.<br>
-  </div>
-</div>
-<br>
-<div style="display: flex; align-items: center; width: 100%;">
-  <div style="flex: 30%;">
-    <a>
           <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/XiangyiXie.jpg" alt="XiangyiXie" style="width: 60%;"/>
     </a>
   </div>
@@ -170,6 +158,17 @@ redirect_from:
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/JialuSui.jpg" alt="JialuSui" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Jialu Sui</strong><br> <a href="mailto:ting.devin.han@gmail.com">📧</a><a href="https://scholar.google.com/citations?hl=zh-CN&user=S--vtB8AAAAJ&view_op=list_works&sortby=pubdate">👨‍🎓</a><a href="https://github.com/littlebeen">💻</a><a href="https://littlebeen.github.io/littlebeen_homepage/">🏠</a><br>
+    is pursuring a Ph.D. in the University of Hong Kong. Her research interests include point cloud processing and remote sensing.<br>
+  </div>
+</div>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/XiXu.jpg" alt="XiXu" style="width: 60%;"/>
     </a>
   </div>
@@ -187,6 +186,18 @@ redirect_from:
 - Pengdi Huang (2017) (Excellent doctoral dissertation in Fujian Province)
   
 ### Master Students
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/ShuaiZhang.jpg" alt="ShuaiZhang" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Shuai Zhang</strong> (2024届) <a href="https://scholar.google.cz/citations?hl=zh-CN&user=7uwX40wAAAAJ">👨‍🎓</a><br>
+    receive the M.Sc. degree in School of Geospatial Engineering and Science from Sun Yat-sen University. He is pursuing his Ph.D. in foundation model for urban at the AI4DCity lab in HKUST (GZ). His research interests include point cloud deep learning, sustainable urban development, foundation model development and application, etc.<br>
+  </div>
+</div>
+<br>
 - Guoyan Li (2021)
 - Zhengchuan Sha (2021)
 - Jiahao Lin (2021)
