@@ -162,7 +162,7 @@ redirect_from:
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Jialu Sui</strong><br> <a href="mailto:ting.devin.han@gmail.com">📧</a><a href="https://scholar.google.com/citations?hl=zh-CN&user=S--vtB8AAAAJ&view_op=list_works&sortby=pubdate">👨‍🎓</a><a href="https://github.com/littlebeen">💻</a><a href="https://littlebeen.github.io/littlebeen_homepage/">🏠</a><br>
+    <strong>Jialu Sui</strong> <a href="mailto:ting.devin.han@gmail.com">📧</a><a href="https://scholar.google.com/citations?hl=zh-CN&user=S--vtB8AAAAJ&view_op=list_works&sortby=pubdate">👨‍🎓</a><a href="https://github.com/littlebeen">💻</a><a href="https://littlebeen.github.io/littlebeen_homepage/">🏠</a><br>
     is pursuring a Ph.D. in the University of Hong Kong. Her research interests include point cloud processing and remote sensing.<br>
   </div>
 </div>
@@ -180,7 +180,7 @@ redirect_from:
 
 ## Previous Students
 ### Ph.D. Students
-- Naftaly Wambugua (2022) (Kenya)
+- **Naftaly Wambugua** (2022届) (Kenya) [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=ItyaIXsAAAAJ&view_op=list_works&sortby=pubdate). He is pursuing a **postdoctoral fellowship at Shenzhen University** under the supervision of Professor [Wang Ruisheng](https://profiles.ucalgary.ca/ruisheng-wang).
 - Zhipeng Luo (2020) (National LiDAR Outstanding Doctoral Dissertation Award, Fujian Provincial Outstanding Doctoral Dissertation)
 - Huifang Feng (2019)
 - Pengdi Huang (2017) (Excellent doctoral dissertation in Fujian Province)
