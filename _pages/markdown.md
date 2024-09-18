@@ -195,17 +195,39 @@ redirect_from:
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/HuifangFeng.png" alt="HuifangFeng" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Huifang Feng</strong> (2021届) <a href="mailto:fhf@xhu.edu.cn">📧</a><a href="https://scholar.google.com/citations?hl=zh-CN&user=4tS3raIAAAAJ">👨‍🎓</a><br>
+    is <strong>assistant professor at the School of Computer and Software Engineering at Xihua University</strong>. She received the Ph.D. degree in photogrammetry and remote sensing from Fujian Key Laboratory of Sensing and Computing for Smart Cities, School of Informatics, Xiamen University, Xiamen, China, under the supervision of Professors Yiping Chen and <a href="https://uwaterloo.ca/geography-environmental-management/profiles/jonathan-li">Jonathan Li</a>. Her research interests include autonomous driving, 3D computer vision, LiDAR processing, and machine learning.<br>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
           <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/ZhipengLuo.png" alt="ZhipengLuo" style="width: 60%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>Zhipeng Luo</strong> (2020届) (National LiDAR Outstanding Doctoral Dissertation Award, Fujian Provincial Outstanding Doctoral Dissertation) <a href="https://scholar.google.com/citations?hl=zh-CN&user=0KdXw88AAAAJ&view_op=list_works&sortby=pubdate">👨‍🎓</a><a href="https://zpluoxmu.github.io/">🏠</a><br>
+    <strong>Zhipeng Luo</strong> (2020届) (National LiDAR Outstanding Doctoral Dissertation Award, Fujian Provincial Outstanding Doctoral Dissertation) <a href="mailto:lzp2680@mnnu.edu.cn">📧</a><a href="https://scholar.google.com/citations?hl=zh-CN&user=0KdXw88AAAAJ&view_op=list_works&sortby=pubdate">👨‍🎓</a><a href="https://zpluoxmu.github.io/">🏠</a><br>
     is <strong>associate professor of department of computer science with Minnan Normal University</strong>, Zhangzhou, China. He received the Ph.D. degree in photogrammetry and remote sensing from Fujian Key Laboratory of Sensing and Computing for Smart Cities, School of Informatics, Xiamen University, Xiamen, China, in July 2020 under the supervision of Professors Yiping Chen and <a href="https://uwaterloo.ca/geography-environmental-management/profiles/jonathan-li">Jonathan Li</a>. From 2021 to 2022, he was a post-doctoral researcher with Hong Kong Polytechnic University, Hong Kong under the supervision of Professor <a href="https://www.polyu.edu.hk/lsgi/people/academic-staff/prof-shi-wen-zhong/">Wenzhong Shi</a>. His research interests include autonomous driving, mobile laser scanning, intelligent processing of point clouds, 3-D computer vision, and machine learning.<br>
   </div>
 </div>
 <br>
-- Huifang Feng (2019)
-- Pengdi Huang (2017) (Excellent doctoral dissertation in Fujian Province)
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/PengdiHuang.png" alt="PengdiHuang" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Pengdi Huang</strong> (2017届) (Excellent doctoral dissertation in Fujian Province) <a href="https://scholar.google.com/citations?hl=zh-CN&user=MKjgy_UAAAAJ&view_op=list_works&sortby=pubdate">👨‍🎓</a><a href=http://116.13.96.53:81/csse/pages/user/index?id=1163">🏠</a><br>
+    is <strong>associate researcher at the Visual Computing Research Center, College of Computer Science and Software Engineering, Shenzhen University.</strong>. He received his Ph.D. in Engineering in Signal and Information Processing from Xiamen University in July 2017. His research interests mainly include 3D point cloud processing, LiDAR point cloud scene understanding and recognition, and robotic vision.<br>
+  </div>
+</div>
+<br>
   
 ### Master Students
 <div style="display: flex; align-items: center; width: 100%;">
