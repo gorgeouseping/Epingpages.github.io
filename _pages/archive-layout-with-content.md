@@ -1,7 +1,7 @@
 ---
 title: "Archive Layout with Content"
 layout: archive
-permalink: 
+permalink: Archive Layout with Content
 ---
 
 A variety of common markup showing how the theme styles them.
