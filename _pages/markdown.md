@@ -60,6 +60,30 @@ redirect_from:
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/JinMaLife.jpg" alt="JinMa" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Jin Ma</strong> (2021) <a href="mailto:majin8@mail2.sysu.edu.cn">📧</a><br>
+    is a Ph.D. student from the School of Geospatial Engineering and Science at Sun Yat-sen University. Her field of expertise lies in Cartography and Geographic Information Systems. Her research interests include point cloud intelligent processing and forest structural parameters measurement.<br>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/TingHan.jpg" alt="TingHan" style="width: 60%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>Ting Han</strong> (2023) <a href="mailto:ting.devin.han@gmail.com">📧</a><a href="https://scholar.google.com/citations?user=IVWx-jwAAAAJ&hl=zh-CN&oi=ao">👨‍🎓</a><a href="https://github.com/Ting-Devin-Han?tab=repositories">💻</a><a href="https://ting-devin-han.github.io/">🏠</a><br>
+     is now pursuing his Ph.D. at the School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, Guangdong, China. His research interests include image and point cloud processing, photogrammetry and remote sensing, deep learning theory, semantic segmentation in computer vision, and its applications.<br>
+  </div>
+</div>
+<br>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
           <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/XiaoxueLiu.png" alt="XiaoxueLiu" style="width: 60%;"/>
     </a>
   </div>
@@ -81,29 +105,6 @@ redirect_from:
   </div>
 </div>
 <br>
-<div style="display: flex; align-items: center; width: 100%;">
-  <div style="flex: 30%;">
-    <a>
-          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/TingHan.jpg" alt="TingHan" style="width: 60%;"/>
-    </a>
-  </div>
-  <div style="flex: 70%;">
-    <strong>Ting Han</strong> (2023) <a href="mailto:ting.devin.han@gmail.com">📧</a><a href="https://scholar.google.com/citations?user=IVWx-jwAAAAJ&hl=zh-CN&oi=ao">👨‍🎓</a><a href="https://github.com/Ting-Devin-Han?tab=repositories">💻</a><a href="https://ting-devin-han.github.io/">🏠</a><br>
-     is now pursuing his Ph.D. at the School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, Guangdong, China. His research interests include image and point cloud processing, photogrammetry and remote sensing, deep learning theory, semantic segmentation in computer vision, and its applications.<br>
-  </div>
-</div>
-<br>
-<div style="display: flex; align-items: center; width: 100%;">
-  <div style="flex: 30%;">
-    <a>
-          <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/JinMaLife.jpg" alt="JinMa" style="width: 60%;"/>
-    </a>
-  </div>
-  <div style="flex: 70%;">
-    <strong>Jin Ma</strong> (2021) <a href="mailto:majin8@mail2.sysu.edu.cn">📧</a><br>
-    is a Ph.D. student from the School of Geospatial Engineering and Science at Sun Yat-sen University. Her field of expertise lies in Cartography and Geographic Information Systems. Her research interests include point cloud intelligent processing and forest structural parameters measurement.<br>
-  </div>
-</div>
 
 ### Master Students
 <div style="display: flex; align-items: center; width: 100%;">
