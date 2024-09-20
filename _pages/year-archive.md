@@ -25,6 +25,17 @@ author_profile: true
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
+        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/SYSU9.png" alt="SYSU9" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>SYSU9</strong> dense point cloud dataset for large-scale semantic segmentation. The SYSU9 dataset mainly includes the sequence point clouds of the Zhuhai campus of Sun Yat-sen University. The data size is about 3 km by 2 km in length by width, totaling about 200 million points. About over 15 types of features were collected, of which evaluated 9 types of features, including roads, sidewalks, natural ground, trees, grass, vehicles, buildings, transportation facilities, and man-made terrain.<br>
+    <a href="https://www.sciencedirect.com/science/article/pii/S1569843224003054">Paper📄</a>|
+  </div>
+</div>
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
         <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/DBNet.gif" alt="DBNet" style="width: 90%;"/>
     </a>
   </div>
