@@ -4,7 +4,17 @@ permalink: /year-archive/
 title: "Benchmark Datasets"
 author_profile: true
 ---
-
+<div style="display: flex; align-items: center; width: 100%;">
+  <div style="flex: 30%;">
+    <a>
+        <img src="https://github.com/gorgeouseping/Epingpages.github.io/raw/master/images/2DInsight3D.png" alt="2DInsight3D" style="width: 90%;"/>
+    </a>
+  </div>
+  <div style="flex: 70%;">
+    <strong>2DInsight3D</strong> is a multi-modal dataset for non-labeled point cloud semantic segmentation, containing aligned remote sensing images and MLS point cloud. The remote sensing data were acquired using images captured by the Gaofen-2 (GF-2) optical remote sensing satellite with a 4-metre resolution across four spectral bands, and annotated in ten prominent land cover categories. The point cloud part consists of approximately 444 million points captured using the RIEGL VMX-450 mobile laser scanning system. It is defined 8 urban scenes labels: water, soil, vegetation, building, highway, other roads, cars and unclassified.<br>
+  </div>
+</div>
+<br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
@@ -29,10 +39,11 @@ author_profile: true
     </a>
   </div>
   <div style="flex: 70%;">
-    <strong>SYSU9</strong> dense point cloud dataset for large-scale semantic segmentation. The SYSU9 dataset mainly includes the sequence point clouds of the Zhuhai campus of Sun Yat-sen University. The data size is about 3 km by 2 km in length by width, totaling about 200 million points. About over 15 types of features were collected, of which evaluated 9 types of features, including roads, sidewalks, natural ground, trees, grass, vehicles, buildings, transportation facilities, and man-made terrain.<br>
+    <strong>SYSU9</strong> dense point cloud dataset for large-scale semantic segmentation. The SYSU9 dataset mainly includes the sequence point clouds of the Zhuhai campus of Sun Yat-sen University. The data size is about 3 km by 2 km in length by width, totaling about 200 million points. About over 15 types of features were collected, of which evaluated 9 types of features, including roads, sidewalks, natural ground, trees, grass, vehicles, buildings, transportation facilities, and man-made terrain.<br>
     <a href="https://www.sciencedirect.com/science/article/pii/S1569843224003054">Paper📄</a>|
   </div>
 </div>
+<br>
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
