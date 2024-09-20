@@ -244,8 +244,8 @@ redirect_from:
 </div>
 <br>
 
-- **Zhenghua Chen** (2025届)
-- **Hongyi Wang** (2024届)(**小红书**)
+- **Zhenghua Chen** (2025届)(**小红书实习**)
+- **Hongyi Wang** (2024届)(**小米**)
 - **Chengzhe Yang** (2022届)(**海信**)
 - **Guoyan Li** (2021届)(**美团**)
 - **HaoJia Lin** (2021届)(**厦门大学信息学院博士生**)
