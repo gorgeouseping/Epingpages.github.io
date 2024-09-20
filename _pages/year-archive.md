@@ -25,7 +25,7 @@ author_profile: true
 <div style="display: flex; align-items: center; width: 100%;">
   <div style="flex: 30%;">
     <a>
-        <img src="https://github.com/Ting-Devin-Han/Epingpages.github.io/raw/master/images/SYSU9.png" alt="SYSU9" style="width: 90%;"/>
+        <img src="https://github.com/gorgeouseping/Epingpages.github.io/raw/master/images/SYSU9.png" alt="SYSU9" style="width: 90%;"/>
     </a>
   </div>
   <div style="flex: 70%;">
